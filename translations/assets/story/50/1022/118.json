@@ -1,0 +1,474 @@
+{
+    "type": "story",
+    "row_index": 17439,
+    "file_name": "story/data/50/1022/storytimeline_501022118",
+    "hash": "XV34YUIZU5RTCG3CSHJG3BVXLIWCUYUG",
+    "data": [
+        {
+            "text": "",
+            "name": "",
+            "path_id": 690126668643169466,
+            "block_id": 0,
+            "clip_length": 45
+        },
+        {
+            "text": "――Uh huh...",
+            "name": "Fine Motion",
+            "path_id": -4834142795642780857,
+            "block_id": 1,
+            "clip_length": 56,
+            "processed": "<story>――Uh huh..."
+        },
+        {
+            "text": "Trainer's race info is straightforward and simple, just like always.",
+            "name": "Fine Motion",
+            "path_id": -8453477626720308478,
+            "block_id": 2,
+            "clip_length": 80,
+            "processed": "<story>Trainer's race info is straightforward and simple, just like always."
+        },
+        {
+            "text": "(The Autumn Tenno Sho is a big race with a storied history. \nRob Roy-chan would be my biggest opponent there...)",
+            "name": "Fine Motion",
+            "path_id": -1426905093256994834,
+            "block_id": 3,
+            "clip_length": 90,
+            "processed": "<story>(The Autumn Tenno Sho is a big race with a storied history. \n<story>Rob Roy-chan would be my biggest opponent there...)"
+        },
+        {
+            "text": "(I'm glad I got to run with her at the Takarazuka Kinen. \nShe told me I was like one of her stories... \nAnd showed me just what I'll leave behind.)",
+            "name": "Fine Motion",
+            "path_id": -6684637466846165739,
+            "block_id": 4,
+            "clip_length": 118,
+            "processed": "<story>(I'm glad I got to run with her at the Takarazuka Kinen. \n<story>She told me I was like one of her stories... \n<story>And showed me just what I'll leave behind.)"
+        },
+        {
+            "text": "(I ran in the Queen Elizabeth II cup last year, too. \nThe standout there is Air Groove-san.)",
+            "name": "Fine Motion",
+            "path_id": 6949813794465087273,
+            "block_id": 5,
+            "clip_length": 89,
+            "processed": "<story>(I ran in the Queen Elizabeth II cup last year, too. \n<story>The standout there is Air Groove-san.)"
+        },
+        {
+            "text": "(The race itself has some memories for me. \nBut more than anything else, I want to live up to their \nexpectations and compete against them again!)",
+            "name": "Fine Motion",
+            "path_id": -8396073580948692931,
+            "block_id": 6,
+            "clip_length": 106,
+            "processed": "<story>(The race itself has some memories for me. \n<story>But more than anything else, I want to live up to their \n<story>expectations and compete against them again!)"
+        },
+        {
+            "text": "(The Mile Championship would definitely be a challenge, \nbut it'd be good to make such an interesting race my last. \nI would be going up against Kawakami-chan.)",
+            "name": "Fine Motion",
+            "path_id": -6308088081520325386,
+            "block_id": 7,
+            "clip_length": 111,
+            "processed": "<story>(The Mile Championship would definitely be a challenge, \n<story>but it'd be good to make such an interesting race my last. \n<story>I would be going up against Kawakami-chan.)"
+        },
+        {
+            "text": "(She taught me what it means to win or lose, and the \nburning feelings behind them. I'd love to go against \nthat Japanese-style Princess again~)",
+            "name": "Fine Motion",
+            "path_id": -8784876743313610211,
+            "block_id": 8,
+            "clip_length": 98,
+            "processed": "<story>(She taught me what it means to win or lose, and the \n<story>burning feelings behind them. I'd love to go against \n<story>that Japanese-style Princess again~)"
+        },
+        {
+            "text": "(And finally, the Arima Kinen... \nI'm not too good at running long-distance races, but \nit's my chance to thank my fans for supporting me.)",
+            "name": "Fine Motion",
+            "path_id": -4860395038126814033,
+            "block_id": 9,
+            "clip_length": 112,
+            "processed": "<story>(And finally, the Arima Kinen... \n<story>I'm not too good at running long-distance races, but \n<story>it's my chance to thank my fans for supporting me.)"
+        },
+        {
+            "text": "(The competitors would be... First, Scarlet-chan. \nLast time we went against each other, I couldn't give \nit my all. I want to show her what I'm like in perfect form.)",
+            "name": "Fine Motion",
+            "path_id": -5306252230434173126,
+            "block_id": 10,
+            "clip_length": 119,
+            "processed": "<story>(The competitors would be... First, Scarlet-chan. \n<story>Last time we went against each other, I couldn't give \n<story>it my all. I want to show her what I'm like in perfect form.)"
+        },
+        {
+            "text": "(And――)",
+            "name": "Fine Motion",
+            "path_id": -620075893461516675,
+            "block_id": 11,
+            "clip_length": 54,
+            "processed": "<story>(And――)"
+        },
+        {
+            "text": "\"Fine Motion's friend Air Shakur is going to participate\"... \n...Don't just up and call us buddies like that.",
+            "name": "Air Shakur",
+            "path_id": 3496098024076752035,
+            "block_id": 12,
+            "clip_length": 98,
+            "processed": "<story>\"Fine Motion's friend Air Shakur is going to participate\"... \n<story>...Don't just up and call us buddies like that."
+        },
+        {
+            "text": "Shakur!?",
+            "name": "Fine Motion",
+            "path_id": 2309941667392580742,
+            "block_id": 13,
+            "clip_length": 54,
+            "processed": "<story>Shakur!?"
+        },
+        {
+            "text": "...I see what's going on here. \nLook at you, picking your last race like you're having a cup \nof tea. You sure are taking things easy.",
+            "name": "Air Shakur",
+            "path_id": 2402633495882746794,
+            "block_id": 14,
+            "clip_length": 110,
+            "processed": "<story>...I see what's going on here. \n<story>Look at you, picking your last race like you're having a cup \n<story>of tea. You sure are taking things easy."
+        },
+        {
+            "text": "Well, I have to be careful making this choice. \nI need to face this final race with the conviction it deserves...",
+            "name": "Fine Motion",
+            "path_id": 1392185897431225399,
+            "block_id": 15,
+            "clip_length": 90,
+            "processed": "<story>Well, I have to be careful making this choice. \n<story>I need to face this final race with the conviction it deserves..."
+        },
+        {
+            "text": "Oh, <i>wow</i>, conviction... \nHa.",
+            "name": "Air Shakur",
+            "path_id": -876006966292167471,
+            "block_id": 16,
+            "clip_length": 63,
+            "processed": "<story>Oh, <i>wow</i>, conviction... \n<story>Ha."
+        },
+        {
+            "text": "Why are you laughing~? \nI'm trying to think about this seriously!",
+            "name": "Fine Motion",
+            "path_id": -8743881839687193228,
+            "block_id": 17,
+            "clip_length": 72,
+            "processed": "<story>Why are you laughing~? \n<story>I'm trying to think about this seriously!"
+        },
+        {
+            "text": "Man, you really just don't learn, do you.",
+            "name": "Air Shakur",
+            "path_id": 3151487928392853132,
+            "block_id": 18,
+            "clip_length": 61,
+            "processed": "<story>Man, you really just don't learn, do you."
+        },
+        {
+            "text": "You can't choose because you want to run with everyone, as \nperfectly as you can, right?",
+            "name": "Air Shakur",
+            "path_id": 2954657317711737353,
+            "block_id": 19,
+            "clip_length": 77,
+            "processed": "<story>You can't choose because you want to run with everyone, as \n<story>perfectly as you can, right?"
+        },
+        {
+            "text": "Then go ahead and make it someone else's problem. \nYou really think you're the only one with \"conviction\"?",
+            "name": "Air Shakur",
+            "path_id": 4199690106202555811,
+            "block_id": 20,
+            "clip_length": 84,
+            "processed": "<story>Then go ahead and make it someone else's problem. \n<story>You really think you're the only one with \"conviction\"?"
+        },
+        {
+            "text": "......!",
+            "name": "Fine Motion",
+            "path_id": 9166054365141678607,
+            "block_id": 21,
+            "clip_length": 48,
+            "processed": "<story>......!"
+        },
+        {
+            "text": "You're right... \nI'm allowed to let my Trainer handle this.",
+            "name": "Fine Motion",
+            "path_id": -1833888655797030867,
+            "block_id": 22,
+            "clip_length": 76,
+            "processed": "<story>You're right... \n<story>I'm allowed to let my Trainer handle this."
+        },
+        {
+            "text": "If they heard you say that, they'd burst into tears.",
+            "name": "Air Shakur",
+            "path_id": 4051090657730507498,
+            "block_id": 23,
+            "clip_length": 65,
+            "processed": "<story>If they heard you say that, they'd burst into tears."
+        },
+        {
+            "text": "No, I don't mean it like that... \n...Wait, hang on, Shakur!",
+            "name": "Fine Motion",
+            "path_id": -567008644086613193,
+            "block_id": 24,
+            "clip_length": 82,
+            "processed": "<story>No, I don't mean it like that... \n<story>...Wait, hang on, Shakur!"
+        },
+        {
+            "text": "Hey! \nYou have something you want to tell me, don't you?",
+            "name": "Fine Motion",
+            "path_id": -2961603988397220284,
+            "block_id": 25,
+            "clip_length": 76,
+            "processed": "<story>Hey! \n<story>You have something you want to tell me, don't you?"
+        },
+        {
+            "text": "...I'm going to the Arima Kinen. \nI was planning to tell you that.",
+            "name": "Air Shakur",
+            "path_id": 8150306456292174094,
+            "block_id": 26,
+            "clip_length": 76,
+            "processed": "<story>...I'm going to the Arima Kinen. \n<story>I was planning to tell you that."
+        },
+        {
+            "text": "I think I'd get some useful data if I ran with you, after all.",
+            "name": "Air Shakur",
+            "path_id": 634679480675223514,
+            "block_id": 27,
+            "clip_length": 80,
+            "processed": "<story>I think I'd get some useful data if I ran with you, after all."
+        },
+        {
+            "text": "You're special. Anyone could tell. \nAnd that's why... I want to beat you down.",
+            "name": "Air Shakur",
+            "path_id": 7424156774333700535,
+            "block_id": 28,
+            "clip_length": 84,
+            "processed": "<story>You're special. Anyone could tell. \n<story>And that's why... I want to beat you down."
+        },
+        {
+            "text": "But judging by what you were doing, challenging you wouldn't be \nfair to the rest of 'em. So I kept my mouth shut.",
+            "name": "Air Shakur",
+            "path_id": -2726700670211330016,
+            "block_id": 29,
+            "clip_length": 86,
+            "processed": "<story>But judging by what you were doing, challenging you wouldn't be \n<story>fair to the rest of 'em. So I kept my mouth shut."
+        },
+        {
+            "text": "Caring about fairness... \nThat's so unlike you!",
+            "name": "Fine Motion",
+            "path_id": -6772398290316903457,
+            "block_id": 30,
+            "clip_length": 72,
+            "processed": "<story>Caring about fairness... \n<story>That's so unlike you!"
+        },
+        {
+            "text": "You really think you can say whatever the hell you want as long \nas you don't use dirty language?",
+            "name": "Air Shakur",
+            "path_id": 4461195730544581658,
+            "block_id": 31,
+            "clip_length": 84,
+            "processed": "<story>You really think you can say whatever the hell you want as long \n<story>as you don't use dirty language?"
+        },
+        {
+            "text": "I'm just kidding. \nI know you're a <i>kind</i> and <i>noble</i> soul.",
+            "name": "Fine Motion",
+            "path_id": -7654637987304199657,
+            "block_id": 32,
+            "clip_length": 72,
+            "processed": "<story>I'm just kidding. \n<story>I know you're a <i>kind</i> and <i>noble</i> soul."
+        },
+        {
+            "text": "......",
+            "name": "Air Shakur",
+            "path_id": -39922300037138383,
+            "block_id": 33,
+            "clip_length": 48,
+            "processed": "<story>......"
+        },
+        {
+            "text": "I feel like there's something else you wanted to tell me. \nThough it could just be a feeling.",
+            "name": "Fine Motion",
+            "path_id": -1583145310129252260,
+            "block_id": 34,
+            "clip_length": 97,
+            "processed": "<story>I feel like there's something else you wanted to tell me. \n<story>Though it could just be a feeling."
+        },
+        {
+            "text": "This might be your last chance to say what you want to say. \nAre you not going to tell me, even now?",
+            "name": "Fine Motion",
+            "path_id": 2638080924264317672,
+            "block_id": 35,
+            "clip_length": 73,
+            "processed": "<story>This might be your last chance to say what you want to say. \n<story>Are you not going to tell me, even now?"
+        },
+        {
+            "text": "......gh.",
+            "name": "Air Shakur",
+            "path_id": -2930626936382212580,
+            "block_id": 36,
+            "clip_length": 50,
+            "processed": "<story>......gh."
+        },
+        {
+            "text": "...Even if you don't compete, come to the Arima Kinen.",
+            "name": "Air Shakur",
+            "path_id": -3861730168849745300,
+            "block_id": 37,
+            "clip_length": 76,
+            "processed": "<story>...Even if you don't compete, come to the Arima Kinen."
+        },
+        {
+            "text": "This is where it ends for me, too. \n...I'll fight like my life depends on it.",
+            "name": "Air Shakur",
+            "path_id": 824081196560775668,
+            "block_id": 38,
+            "clip_length": 76,
+            "processed": "<story>This is where it ends for me, too. \n<story>...I'll fight like my life depends on it."
+        },
+        {
+            "text": "<i>! </i> \nShakur, you...",
+            "name": "Fine Motion",
+            "path_id": -7084668743741076713,
+            "block_id": 39,
+            "clip_length": 63,
+            "processed": "<story><i>! </i> \n<story>Shakur, you..."
+        },
+        {
+            "text": "Come. You need to come, Fine. \n...'cause I'm gonna chew up your resolve and spit it back out.",
+            "name": "Air Shakur",
+            "path_id": 671568083062428915,
+            "block_id": 40,
+            "clip_length": 88,
+            "processed": "<story>Come. You need to come, Fine. \n<story>...'cause I'm gonna chew up your resolve and spit it back out."
+        },
+        {
+            "text": "Shakur...",
+            "name": "Fine Motion",
+            "path_id": 6356201273227423555,
+            "block_id": 41,
+            "clip_length": 55,
+            "processed": "<story>Shakur..."
+        },
+        {
+            "text": "...Everyone has different feelings, and different circumstances. \nI――",
+            "name": "Fine Motion",
+            "path_id": 2143671933146033583,
+            "block_id": 42,
+            "clip_length": 82,
+            "processed": "<story>...Everyone has different feelings, and different circumstances. \n<story>I――"
+        },
+        {
+            "text": "Before training, Fine Motion asked me to \"choose the next \nobjective race\".",
+            "name": "",
+            "path_id": 5300395533808478058,
+            "block_id": 43,
+            "clip_length": 101,
+            "processed": "<story>Before training, Fine Motion asked me to \"choose the next \n<story>objective race\"."
+        },
+        {
+            "text": "And here's my opinion. \n\"I can't choose!\"",
+            "name": "Fine Motion",
+            "path_id": -3555226756203086406,
+            "block_id": 44,
+            "clip_length": 69,
+            "processed": "<story>And here's my opinion. \n<story>\"I can't choose!\""
+        },
+        {
+            "text": "But I have to choose, so... \nI need your help.",
+            "name": "Fine Motion",
+            "path_id": 1243534182352363745,
+            "block_id": 45,
+            "clip_length": 77,
+            "processed": "<story>But I have to choose, so... \n<story>I need your help."
+        },
+        {
+            "text": "I want to leave this decision to you. \nIs that okay?",
+            "name": "Fine Motion",
+            "path_id": -8119605452228645079,
+            "block_id": 46,
+            "clip_length": 67,
+            "choices": [
+                {
+                    "text": "Of course!",
+                    "hash": "d7dc2c584dab1c79c1051244bd1990da52c55f4f5fffd94bd0097c76a51bd1ca"
+                }
+            ],
+            "processed": "<story>I want to leave this decision to you. \n<story>Is that okay?"
+        },
+        {
+            "text": "Fine Motion's final race will be...",
+            "name": "",
+            "path_id": 5872190705288041086,
+            "block_id": 47,
+            "clip_length": 78,
+            "choices": [
+                {
+                    "text": "the Autumn Tenno Sho.",
+                    "hash": "b80fcc9d3f706d62ff8a0c51030849a72baf0a4510c94da7d619e52beedcf5c5"
+                },
+                {
+                    "text": "the Queen Elizabeth II Cup.",
+                    "hash": "7453ca6dda4962aa45aa0daf9b99b503c1aa0beb691d151439fea6039373b001"
+                },
+                {
+                    "text": "the Mile Championship.",
+                    "hash": "e09efc99b88f0b77fa96ba13903ca68c0fff394d9c98d4087832a8be11f8c5e5"
+                },
+                {
+                    "text": "the Arima Kinen.",
+                    "hash": "6b5b0cfddd6da601c6e03f6a92d0da9c90085b3689fd9880959f7ca2bb9a3df5"
+                }
+            ],
+            "processed": "<story>Fine Motion's final race will be..."
+        },
+        {
+            "text": "",
+            "name": "",
+            "path_id": -7708456894130814945,
+            "block_id": 48,
+            "clip_length": 30
+        },
+        {
+            "text": "",
+            "name": "Fine Motion",
+            "path_id": 2981932011895280851,
+            "block_id": 49,
+            "clip_length": 78
+        },
+        {
+            "text": "",
+            "name": "",
+            "path_id": -8718423679777729557,
+            "block_id": 50,
+            "clip_length": 30
+        },
+        {
+            "text": "",
+            "name": "Fine Motion",
+            "path_id": 13603133118760900,
+            "block_id": 51,
+            "clip_length": 86
+        },
+        {
+            "text": "",
+            "name": "",
+            "path_id": -7654088806384979695,
+            "block_id": 52,
+            "clip_length": 30
+        },
+        {
+            "text": "",
+            "name": "Fine Motion",
+            "path_id": 3386224494262365445,
+            "block_id": 53,
+            "clip_length": 82
+        },
+        {
+            "text": "The objective race has changed to the Arima Kinen.",
+            "name": "",
+            "path_id": 4044044919019941867,
+            "block_id": 54,
+            "clip_length": 30,
+            "processed": "<story>The objective race has changed to the Arima Kinen."
+        },
+        {
+            "text": "Okay! \nLet's make this a finale to remember...!",
+            "name": "Fine Motion",
+            "path_id": 5011933689747914920,
+            "block_id": 55,
+            "clip_length": 73,
+            "processed": "<story>Okay! \n<story>Let's make this a finale to remember...!"
+        }
+    ],
+    "title": "Who Will Escort Me?"
+}

@@ -1,0 +1,496 @@
+{
+    "type": "story",
+    "row_index": 17432,
+    "file_name": "story/data/50/1022/storytimeline_501022102",
+    "hash": "NRMLIR5N63CBGWKZMWBOONZFOTY5SSZK",
+    "data": [
+        {
+            "text": "",
+            "name": "",
+            "path_id": 1455248322780323183,
+            "block_id": 0,
+            "clip_length": 45
+        },
+        {
+            "text": "――Wow, there's so many people! \nJapanese New Year's celebrations sure are lively.",
+            "name": "Fine Motion",
+            "path_id": -8156518896271222345,
+            "block_id": 1,
+            "clip_length": 85,
+            "processed": "<story>――Wow, there's so many people! \n<story>Japanese New Year's celebrations sure are lively."
+        },
+        {
+            "text": "Your Highness. May I presume you remember the conditions you \nagreed to regarding today's outing?",
+            "name": "SP Commander",
+            "path_id": -4240464785708952450,
+            "block_id": 2,
+            "clip_length": 95,
+            "processed": "<story>Your Highness. May I presume you remember the conditions you \n<story>agreed to regarding today's outing?"
+        },
+        {
+            "text": "Yes, of course. \n\"Do not separate from your guards\"!",
+            "name": "Fine Motion",
+            "path_id": 1659558849409280669,
+            "block_id": 3,
+            "clip_length": 85,
+            "processed": "<story>Yes, of course. \n<story>\"Do not separate from your guards\"!"
+        },
+        {
+            "text": "But you don't need to worry about me so much. \nTrainer is here too, so―― Oh.",
+            "name": "Fine Motion",
+            "path_id": -4456676181842280781,
+            "block_id": 4,
+            "clip_length": 90,
+            "processed": "<story>But you don't need to worry about me so much. \n<story>Trainer is here too, so―― Oh."
+        },
+        {
+            "text": "I almost forgot to say it! \nHappy New Year ♪",
+            "name": "Fine Motion",
+            "path_id": 5181258277121357329,
+            "block_id": 5,
+            "clip_length": 78,
+            "choices": [
+                {
+                    "text": "Happy New Year!",
+                    "hash": "c2ff178b852f529d70547b787099571dfc9ca8d982e35e99193de804219edca0"
+                }
+            ],
+            "processed": "<story>I almost forgot to say it! \n<story>Happy New Year ♪"
+        },
+        {
+            "text": "Here's to another year! \nLet's make it one to remember.",
+            "name": "Fine Motion",
+            "path_id": -472021956123938797,
+            "block_id": 6,
+            "clip_length": 80,
+            "processed": "<story>Here's to another year! \n<story>Let's make it one to remember."
+        },
+        {
+            "text": "I only have so much time left here... \nWe'd better fill it up with smiles ♪",
+            "name": "Fine Motion",
+            "path_id": 7064776607196342056,
+            "block_id": 7,
+            "clip_length": 82,
+            "processed": "<story>I only have so much time left here... \n<story>We'd better fill it up with smiles ♪"
+        },
+        {
+            "text": "――In other words, you're not going to leave anything behind. \nIn the end all those moments will be nothing but those \n\"memories\" you love so much.",
+            "name": "Air Shakur",
+            "path_id": 2836471985459783059,
+            "block_id": 8,
+            "clip_length": 94,
+            "processed": "<story>――In other words, you're not going to leave anything behind. \n<story>In the end all those moments will be nothing but those \n<story>\"memories\" you love so much."
+        },
+        {
+            "text": "After the Queen Elizabeth II Cup, Air Shakur pressed the issue of \nthat \"deadline\"... \nBut even then Fine's expression did not waver.",
+            "name": "",
+            "path_id": -2466753405213299094,
+            "block_id": 9,
+            "clip_length": 118,
+            "processed": "<story>After the Queen Elizabeth II Cup, Air Shakur pressed the issue of \n<story>that \"deadline\"... \n<story>But even then Fine's expression did not waver."
+        },
+        {
+            "text": "...I'm fine with that, you know?",
+            "name": "Fine Motion",
+            "path_id": 3684863215834817520,
+            "block_id": 10,
+            "clip_length": 55,
+            "choices": [
+                {
+                    "text": "Uh...",
+                    "hash": "017a0ab6fc8a7ce8a952a1efd51003f42406f3a6746654b1b33ae3dd5c0c0310"
+                }
+            ],
+            "processed": "<story>...I'm fine with that, you know?"
+        },
+        {
+            "text": "I'm not forgetting anything. \nNobody knows how things will end!",
+            "name": "Fine Motion",
+            "path_id": 4377130346352953995,
+            "block_id": 11,
+            "clip_length": 88,
+            "processed": "<story>I'm not forgetting anything. \n<story>Nobody knows how things will end!"
+        },
+        {
+            "text": "......",
+            "name": "SP Commander",
+            "path_id": 1905814193296644498,
+            "block_id": 12,
+            "clip_length": 48,
+            "processed": "<story>......"
+        },
+        {
+            "text": "My duty to my homeland is absolute. \nI have to carry it out. And I <i>want</i> to carry it out.",
+            "name": "Fine Motion",
+            "path_id": -8392070031659711269,
+            "block_id": 13,
+            "clip_length": 97,
+            "processed": "<story>My duty to my homeland is absolute. \n<story>I have to carry it out. And I <i>want</i> to carry it out."
+        },
+        {
+            "text": "I should be fulfilling those duties, but here I am, running free, \ncelebrating the new year! \nThat's... That's more than enough for me.",
+            "name": "Fine Motion",
+            "path_id": -6982580707608055757,
+            "block_id": 14,
+            "clip_length": 110,
+            "processed": "<story>I should be fulfilling those duties, but here I am, running free, \n<story>celebrating the new year! \n<story>That's... That's more than enough for me."
+        },
+        {
+            "text": "These three years have been a gift.",
+            "name": "Fine Motion",
+            "path_id": -2067050956156877063,
+            "block_id": 15,
+            "clip_length": 78,
+            "choices": [
+                {
+                    "text": "A gift?",
+                    "hash": "97162b082e1e77277e443387621f5acf4bd5ecfc6a6e0493631a1510b078a591"
+                }
+            ],
+            "processed": "<story>These three years have been a gift."
+        },
+        {
+            "text": "That's right. This time is a gift. \nThe time of my dreams, born from the kindness of everyone I've \nmet here...",
+            "name": "Fine Motion",
+            "path_id": 592922534257916876,
+            "block_id": 16,
+            "clip_length": 99,
+            "processed": "<story>That's right. This time is a gift. \n<story>The time of my dreams, born from the kindness of everyone I've \n<story>met here..."
+        },
+        {
+            "text": "It's been so wonderful, and so much fun! \nFor me, these three years are a precious, beloved, and... \nblessed time.",
+            "name": "Fine Motion",
+            "path_id": 7161797202931064293,
+            "block_id": 17,
+            "clip_length": 86,
+            "processed": "<story>It's been so wonderful, and so much fun! \n<story>For me, these three years are a precious, beloved, and... \n<story>blessed time."
+        },
+        {
+            "text": "",
+            "name": "Fine Motion",
+            "path_id": -9220677843773748377,
+            "block_id": 18,
+            "clip_length": 86
+        },
+        {
+            "text": "",
+            "name": "",
+            "path_id": 1300086310700104751,
+            "block_id": 19,
+            "clip_length": 123
+        },
+        {
+            "text": "",
+            "name": "Fine Motion",
+            "path_id": -2423228724557350877,
+            "block_id": 20,
+            "clip_length": 82
+        },
+        {
+            "text": "",
+            "name": "",
+            "path_id": 2078087088774687422,
+            "block_id": 21,
+            "clip_length": 69
+        },
+        {
+            "text": "",
+            "name": "Fine Motion",
+            "path_id": 4389225515463118184,
+            "block_id": 22,
+            "clip_length": 116
+        },
+        {
+            "text": "",
+            "name": "Fine Motion",
+            "path_id": 1012594553363531694,
+            "block_id": 23,
+            "clip_length": 75,
+            "choices": [
+                {
+                    "text": "",
+                    "hash": "2b9e5539a9adbb6c9237442d766097136e21ac9bd8f62e4136116e8babfb52eb"
+                },
+                {
+                    "text": "",
+                    "hash": "7285c6133dd048d91051b18a59e0f8c11a2b810c4c39316327bab8e3e0a45c87"
+                },
+                {
+                    "text": "",
+                    "hash": "51912e57521f1fc52c339c20fa052a7518f7a2eda88b06fc6da02bf446c2afca"
+                }
+            ]
+        },
+        {
+            "text": "",
+            "name": "Fine Motion",
+            "path_id": -1581584582732284237,
+            "block_id": 24,
+            "clip_length": 78
+        },
+        {
+            "text": "",
+            "name": "",
+            "path_id": -3372371337927160830,
+            "block_id": 25,
+            "clip_length": 111
+        },
+        {
+            "text": "",
+            "name": "Fine Motion",
+            "path_id": -7973809063514208210,
+            "block_id": 26,
+            "clip_length": 67,
+            "choices": [
+                {
+                    "text": "",
+                    "hash": "bc0a42c74be1d069d3b373e90698019933d8bc79b86c6f6867908e179cb66096"
+                },
+                {
+                    "text": "",
+                    "hash": "f6130f61c606a45501c58666a00599f0a15c52e9cf384ea8f5499bf239d48f19"
+                }
+            ]
+        },
+        {
+            "text": "",
+            "name": "Fine Motion",
+            "path_id": -5909363709483035359,
+            "block_id": 27,
+            "clip_length": 93
+        },
+        {
+            "text": "",
+            "name": "Fine Motion",
+            "path_id": -8296426504656039678,
+            "block_id": 28,
+            "clip_length": 115
+        },
+        {
+            "text": "",
+            "name": "",
+            "path_id": 5757967654163136763,
+            "block_id": 29,
+            "clip_length": 112
+        },
+        {
+            "text": "",
+            "name": "Fine Motion",
+            "path_id": -5371411194657274534,
+            "block_id": 30,
+            "clip_length": 93
+        },
+        {
+            "text": "",
+            "name": "Fine Motion",
+            "path_id": -3900667404286735628,
+            "block_id": 31,
+            "clip_length": 69
+        },
+        {
+            "text": "",
+            "name": "",
+            "path_id": -4126895119793079995,
+            "block_id": 32,
+            "clip_length": 81
+        },
+        {
+            "text": "",
+            "name": "Fine Motion",
+            "path_id": 125095067238338659,
+            "block_id": 33,
+            "clip_length": 51
+        },
+        {
+            "text": "",
+            "name": "Fine Motion",
+            "path_id": -4060108925668806663,
+            "block_id": 34,
+            "clip_length": 69,
+            "choices": [
+                {
+                    "text": "",
+                    "hash": "3a6f2427c0544ad2c2eb4f778cdc760d0668844092456384cb2e933ac6dc61e9"
+                }
+            ]
+        },
+        {
+            "text": "",
+            "name": "Fine Motion",
+            "path_id": -6825624912030023370,
+            "block_id": 35,
+            "clip_length": 72
+        },
+        {
+            "text": "",
+            "name": "Fine Motion",
+            "path_id": 7870518691142962131,
+            "block_id": 36,
+            "clip_length": 85
+        },
+        {
+            "text": "",
+            "name": "",
+            "path_id": 1712977913918765533,
+            "block_id": 37,
+            "clip_length": 76
+        },
+        {
+            "text": "",
+            "name": "Fine Motion",
+            "path_id": 7398275252198719912,
+            "block_id": 38,
+            "clip_length": 93
+        },
+        {
+            "text": "",
+            "name": "Fine Motion",
+            "path_id": 5397659590581754040,
+            "block_id": 39,
+            "clip_length": 73
+        },
+        {
+            "text": "",
+            "name": "SP Commander",
+            "path_id": -1738872683758545937,
+            "block_id": 40,
+            "clip_length": 99
+        },
+        {
+            "text": "",
+            "name": "",
+            "path_id": -4637308661410814423,
+            "block_id": 41,
+            "clip_length": 86
+        },
+        {
+            "text": "",
+            "name": "Fine Motion",
+            "path_id": -3220102037644890829,
+            "block_id": 42,
+            "clip_length": 99,
+            "choices": [
+                {
+                    "text": "",
+                    "hash": "98eedc2a1e4cadc1f6e6bd8d04e68a29a670522868b9138650e5be5d6098cef0"
+                },
+                {
+                    "text": "",
+                    "hash": "64bb547f8b7b9c920786a347110eff052f854d1c083a707d0984634b29756fb7"
+                }
+            ]
+        },
+        {
+            "text": "",
+            "name": "Fine Motion",
+            "path_id": -2446793709258740703,
+            "block_id": 43,
+            "clip_length": 68
+        },
+        {
+            "text": "",
+            "name": "",
+            "path_id": 6564225114210481775,
+            "block_id": 44,
+            "clip_length": 61
+        },
+        {
+            "text": "",
+            "name": "Fine Motion",
+            "path_id": 141048981551357036,
+            "block_id": 45,
+            "clip_length": 78
+        },
+        {
+            "text": "",
+            "name": "",
+            "path_id": -4470037492989446483,
+            "block_id": 46,
+            "clip_length": 107
+        },
+        {
+            "text": "",
+            "name": "Fine Motion",
+            "path_id": 1060414545702599919,
+            "block_id": 47,
+            "clip_length": 91
+        },
+        {
+            "text": "",
+            "name": "Fine Motion",
+            "path_id": -378386338177737081,
+            "block_id": 48,
+            "clip_length": 90,
+            "choices": [
+                {
+                    "text": "",
+                    "hash": "0a972b77ff8d32087474c47fe3636b24b4cd3f605e0435d1e8a8b2c0668f5536"
+                }
+            ]
+        },
+        {
+            "text": "",
+            "name": "Fine Motion",
+            "path_id": -3461023971644925424,
+            "block_id": 49,
+            "clip_length": 99
+        },
+        {
+            "text": "",
+            "name": "Passerby A",
+            "path_id": -1817482353354000746,
+            "block_id": 50,
+            "clip_length": 67
+        },
+        {
+            "text": "",
+            "name": "SP Commander",
+            "path_id": 2784986984330655907,
+            "block_id": 51,
+            "clip_length": 46
+        },
+        {
+            "text": "",
+            "name": "Passerby A",
+            "path_id": 992886181171604342,
+            "block_id": 52,
+            "clip_length": 84
+        },
+        {
+            "text": "",
+            "name": "Fine Motion",
+            "path_id": 2319164900474780471,
+            "block_id": 53,
+            "clip_length": 84
+        },
+        {
+            "text": "",
+            "name": "Passerby A",
+            "path_id": 2910531554438899852,
+            "block_id": 54,
+            "clip_length": 95
+        },
+        {
+            "text": "",
+            "name": "Fine Motion",
+            "path_id": 7116939293222702068,
+            "block_id": 55,
+            "clip_length": 56
+        },
+        {
+            "text": "",
+            "name": "Fine Motion",
+            "path_id": 5609662027905836973,
+            "block_id": 56,
+            "clip_length": 63
+        },
+        {
+            "text": "",
+            "name": "",
+            "path_id": 4478644065588856998,
+            "block_id": 57,
+            "clip_length": 118
+        }
+    ],
+    "title": "Shrine Visit"
+}

@@ -1,0 +1,506 @@
+{
+    "type": "story",
+    "row_index": 17438,
+    "file_name": "story/data/50/1022/storytimeline_501022114",
+    "hash": "NJLKBD2ITOQYXWYU7XESMMFQ7PJSR5IC",
+    "data": [
+        {
+            "text": "",
+            "name": "",
+            "path_id": 5060228017815899555,
+            "block_id": 0,
+            "clip_length": 45
+        },
+        {
+            "text": "――Ah!",
+            "name": "Fine Motion",
+            "path_id": -1801599565514832516,
+            "block_id": 1,
+            "clip_length": 50,
+            "processed": "<story>――Ah!"
+        },
+        {
+            "text": "I see you ♪ \nHeeeeey!",
+            "name": "Fine Motion",
+            "path_id": 5943098368761288265,
+            "block_id": 2,
+            "clip_length": 60,
+            "choices": [
+                {
+                    "text": "Fine!?",
+                    "hash": "14745ba74d5bbaba254c677c11894355bf32983d74897a01767424077e314124"
+                }
+            ],
+            "processed": "<story>I see you ♪ \n<story>Heeeeey!"
+        },
+        {
+            "text": "Right in the middle of training, Fine Motion started dashing \ntoward the bleachers...!",
+            "name": "",
+            "path_id": 8242803057068393142,
+            "block_id": 3,
+            "clip_length": 93,
+            "processed": "<story>Right in the middle of training, Fine Motion started dashing \n<story>toward the bleachers...!"
+        },
+        {
+            "text": "Damn. \nDon't just run over here like that...",
+            "name": "Air Shakur",
+            "path_id": -1585322147174757053,
+            "block_id": 4,
+            "clip_length": 69,
+            "processed": "<story>Damn. \n<story>Don't just run over here like that..."
+        },
+        {
+            "text": "There in the bleachers stood Air Shakur―― \nAn Umamusume who debuted before Fine Motion, with \na penchant for the theoretical.",
+            "name": "",
+            "path_id": 7885166471777716964,
+            "block_id": 5,
+            "clip_length": 111,
+            "processed": "<story>There in the bleachers stood Air Shakur―― \n<story>An Umamusume who debuted before Fine Motion, with \n<story>a penchant for the theoretical."
+        },
+        {
+            "text": "Hmm? Didn't you come to see me?",
+            "name": "Fine Motion",
+            "path_id": -6744366876060535053,
+            "block_id": 6,
+            "clip_length": 86,
+            "processed": "<story>Hmm? Didn't you come to see me?"
+        },
+        {
+            "text": "<i>HUH?</i>",
+            "name": "Air Shakur",
+            "path_id": -8911565157039734242,
+            "block_id": 7,
+            "clip_length": 50,
+            "processed": "<story><i>HUH?</i>"
+        },
+        {
+            "text": "Didn't you come because you wanted to collect my data again?",
+            "name": "Fine Motion",
+            "path_id": -3046652683460646602,
+            "block_id": 8,
+            "clip_length": 76,
+            "processed": "<story>Didn't you come because you wanted to collect my data again?"
+        },
+        {
+            "text": "She didn't say \"again\" for nothing. \nWhenever we trained, we'd often see Air Shakur with her laptop \nin tow.",
+            "name": "",
+            "path_id": -6572042979677741051,
+            "block_id": 9,
+            "clip_length": 121,
+            "processed": "<story>She didn't say \"again\" for nothing. \n<story>Whenever we trained, we'd often see Air Shakur with her laptop \n<story>in tow."
+        },
+        {
+            "text": "...If you don't like it I'll stay out of sight. \nYou want me to come back with a warrant or what?",
+            "name": "Air Shakur",
+            "path_id": 4554005892015615503,
+            "block_id": 10,
+            "clip_length": 107,
+            "processed": "<story>...If you don't like it I'll stay out of sight. \n<story>You want me to come back with a warrant or what?"
+        },
+        {
+            "text": "That's not why I called you out! \nI was just thinking, if you're going to be here either way, we \nshould train together!",
+            "name": "Fine Motion",
+            "path_id": 1726706716415458731,
+            "block_id": 11,
+            "clip_length": 90,
+            "processed": "<story>That's not why I called you out! \n<story>I was just thinking, if you're going to be here either way, we \n<story>should train together!"
+        },
+        {
+            "text": "You can collect data more efficiently that way, right?",
+            "name": "Fine Motion",
+            "path_id": 1381852750104705427,
+            "block_id": 12,
+            "clip_length": 82,
+            "processed": "<story>You can collect data more efficiently that way, right?"
+        },
+        {
+            "text": "And risk getting caught in your iron grip? \nHell no.",
+            "name": "Air Shakur",
+            "path_id": -5402828910974036470,
+            "block_id": 13,
+            "clip_length": 78,
+            "processed": "<story>And risk getting caught in your iron grip? \n<story>Hell no."
+        },
+        {
+            "text": "Iron grip... You mean you don't like getting held too tight? \nDoes that mean it's okay if we just talk, then?",
+            "name": "Fine Motion",
+            "path_id": -7716416968722248532,
+            "block_id": 14,
+            "clip_length": 90,
+            "processed": "<story>Iron grip... You mean you don't like getting held too tight? \n<story>Does that mean it's okay if we just talk, then?"
+        },
+        {
+            "text": "...Hey. Aren't you supposed to be this clown's trainer? \nDidn't you teach her not to get up in other peoples' business?",
+            "name": "Air Shakur",
+            "path_id": -3717105922643653080,
+            "block_id": 15,
+            "clip_length": 93,
+            "choices": [
+                {
+                    "text": "Do you have a problem with Fine?",
+                    "hash": "a3ea783be2613cd00dbb8d87ff4ae0c2e9ca12dc7a6a870e9be27c7c359a1e95"
+                },
+                {
+                    "text": "Do you have a problem with Fine?",
+                    "hash": "69b06f8b1a8be6b2b637ae422b206204ef1fa96db1582b186feca0313b572f54"
+                }
+            ],
+            "processed": "<story>...Hey. Aren't you supposed to be this clown's trainer? \n<story>Didn't you teach her not to get up in other peoples' business?"
+        },
+        {
+            "text": "<i>HUH!?</i> \nNo shit, of course I have a problem with her!",
+            "name": "Air Shakur",
+            "path_id": -3632824891429679815,
+            "block_id": 16,
+            "clip_length": 71,
+            "choices": [
+                {
+                    "text": "Then why collect her data?",
+                    "hash": "119465077dfc0b9d84fcc6abc0cfa892c533cb6e76c4ce273d822ed38fae5fbb"
+                },
+                {
+                    "text": "Then why collect her data?",
+                    "hash": "3bef2b80d7ceab7ec856639d4c73e383853abb4b7a23ec457aa3a9e962356e26"
+                }
+            ],
+            "processed": "<story><i>HUH!?</i> \n<story>No shit, of course I have a problem with her!"
+        },
+        {
+            "text": "Because I need it. Do I need another reason? \nValid data doesn't lie. That's all it is.",
+            "name": "Air Shakur",
+            "path_id": 8688327534499311668,
+            "block_id": 17,
+            "clip_length": 97,
+            "processed": "<story>Because I need it. Do I need another reason? \n<story>Valid data doesn't lie. That's all it is."
+        },
+        {
+            "text": "Think about it. You know the research on the connection between \ngenetics and distance aptitude, yeah?",
+            "name": "Air Shakur",
+            "path_id": -2763169543818292391,
+            "block_id": 18,
+            "clip_length": 90,
+            "processed": "<story>Think about it. You know the research on the connection between \n<story>genetics and distance aptitude, yeah?"
+        },
+        {
+            "text": "Anyone who knows anything about racing would have at least \nheard of it. As the theory goes, genes controlling the growth of \nmuscle cells are correlated with aptitude for different distances.",
+            "name": "",
+            "path_id": -4222224232836413510,
+            "block_id": 19,
+            "clip_length": 108,
+            "processed": "<story>Anyone who knows anything about racing would have at least \n<story>heard of it. As the theory goes, genes controlling the growth of \n<story>muscle cells are correlated with aptitude for different distances."
+        },
+        {
+            "text": "Finding and validating that correlation requires a significant \nsample size. The law of large numbers is a just one. \nNo sample size, no point.",
+            "name": "Air Shakur",
+            "path_id": -2908413895214832746,
+            "block_id": 20,
+            "clip_length": 111,
+            "processed": "<story>Finding and validating that correlation requires a significant \n<story>sample size. The law of large numbers is a just one. \n<story>No sample size, no point."
+        },
+        {
+            "text": "But unlike a certain romanticist, I'm not going to let the data \ntake the wheel.",
+            "name": "Air Shakur",
+            "path_id": -6150358574252499978,
+            "block_id": 21,
+            "clip_length": 89,
+            "processed": "<story>But unlike a certain romanticist, I'm not going to let the data \n<story>take the wheel."
+        },
+        {
+            "text": "Everything in this world is predetermined, sure. \nBut where's the fun in a dogshit game where we all follow \n\"God's Own Language\"?",
+            "name": "Air Shakur",
+            "path_id": 5228844921604501145,
+            "block_id": 22,
+            "clip_length": 98,
+            "processed": "<story>Everything in this world is predetermined, sure. \n<story>But where's the fun in a dogshit game where we all follow \n<story>\"God's Own Language\"?"
+        },
+        {
+            "text": "If I want to find the bugs in that game... \nI can never have enough data.",
+            "name": "Air Shakur",
+            "path_id": -3674647047090069175,
+            "block_id": 23,
+            "clip_length": 82,
+            "processed": "<story>If I want to find the bugs in that game... \n<story>I can never have enough data."
+        },
+        {
+            "text": "...Especially if that data is on people who are different from all \nthe rest.",
+            "name": "Air Shakur",
+            "path_id": 5019813358277792554,
+            "block_id": 24,
+            "clip_length": 77,
+            "processed": "<story>...Especially if that data is on people who are different from all \n<story>the rest."
+        },
+        {
+            "text": "Hmm? You mean me?",
+            "name": "Fine Motion",
+            "path_id": -8060820509595500493,
+            "block_id": 25,
+            "clip_length": 55,
+            "processed": "<story>Hmm? You mean me?"
+        },
+        {
+            "text": "I wouldn't give a crap about you otherwise. \nI've seen fluctuations in your data.",
+            "name": "Air Shakur",
+            "path_id": 7280993128165732250,
+            "block_id": 26,
+            "clip_length": 85,
+            "processed": "<story>I wouldn't give a crap about you otherwise. \n<story>I've seen fluctuations in your data."
+        },
+        {
+            "text": "Fluctuations that break God's rules. \nIf I had put those fluctuations to use...",
+            "name": "Air Shakur",
+            "path_id": -5142032191005709695,
+            "block_id": 27,
+            "clip_length": 75,
+            "processed": "<story>Fluctuations that break God's rules. \n<story>If I had put those fluctuations to use..."
+        },
+        {
+            "text": "...I might've been able to change that \"7cm\". \nThough whether that number'd go up or down is anyone's guess.",
+            "name": "Air Shakur",
+            "path_id": 514005298787290858,
+            "block_id": 28,
+            "clip_length": 99,
+            "processed": "<story>...I might've been able to change that \"7cm\". \n<story>Though whether that number'd go up or down is anyone's guess."
+        },
+        {
+            "text": "――\"7cm\". \nFor Air Shakur, that number represents despair.",
+            "name": "",
+            "path_id": 8670538449374523254,
+            "block_id": 29,
+            "clip_length": 89,
+            "processed": "<story>――\"7cm\". \n<story>For Air Shakur, that number represents despair."
+        },
+        {
+            "text": "After claiming her first crown at the Satsuki Sho, she met \ndefeat at the Japanese Derby by a mere seven centimeters.",
+            "name": "",
+            "path_id": 6746613859558030206,
+            "block_id": 30,
+            "clip_length": 103,
+            "processed": "<story>After claiming her first crown at the Satsuki Sho, she met \n<story>defeat at the Japanese Derby by a mere seven centimeters."
+        },
+        {
+            "text": "Afterward, she won the Kikuka Sho, and earned the title of \n\"Double Crown Umamusume\", but...",
+            "name": "",
+            "path_id": 5740733991896877839,
+            "block_id": 31,
+            "clip_length": 81,
+            "processed": "<story>Afterward, she won the Kikuka Sho, and earned the title of \n<story>\"Double Crown Umamusume\", but..."
+        },
+        {
+            "text": "\"In the end... All I could prove was that data is absolute.\"",
+            "name": "Air Shakur",
+            "path_id": 4696566182375088193,
+            "block_id": 32,
+            "clip_length": 80,
+            "processed": "<story>\"In the end... All I could prove was that data is absolute.\""
+        },
+        {
+            "text": "Those were her only words after the race. \nI remembered the sight of her leaving the interview――",
+            "name": "",
+            "path_id": -3547743715183736232,
+            "block_id": 33,
+            "clip_length": 93,
+            "processed": "<story>Those were her only words after the race. \n<story>I remembered the sight of her leaving the interview――"
+        },
+        {
+            "text": "Shakur...",
+            "name": "Fine Motion",
+            "path_id": -6731630717451772225,
+            "block_id": 34,
+            "clip_length": 55,
+            "processed": "<story>Shakur..."
+        },
+        {
+            "text": "...Shit. \nI said too much.",
+            "name": "Air Shakur",
+            "path_id": -2465029623066945895,
+            "block_id": 35,
+            "clip_length": 61,
+            "processed": "<story>...Shit. \n<story>I said too much."
+        },
+        {
+            "text": "W-wait!",
+            "name": "Fine Motion",
+            "path_id": 2264359420271734806,
+            "block_id": 36,
+            "clip_length": 54,
+            "processed": "<story>W-wait!"
+        },
+        {
+            "text": "...The hell do you want? \nSay something stupid and you'll regret it.",
+            "name": "Air Shakur",
+            "path_id": 5567088672493258279,
+            "block_id": 37,
+            "clip_length": 73,
+            "processed": "<story>...The hell do you want? \n<story>Say something stupid and you'll regret it."
+        },
+        {
+            "text": "Oh, I get it. \nDoes <i>Her Gracious Royal Highness</i> demand the commoner pay \ntribute for her precious data?",
+            "name": "Air Shakur",
+            "path_id": -7019534713714779695,
+            "block_id": 38,
+            "clip_length": 98,
+            "processed": "<story>Oh, I get it. \n<story>Does <i>Her Gracious Royal Highness</i> demand the commoner pay \n<story>tribute for her precious data?"
+        },
+        {
+            "text": "It's not about the data. \nI mean...",
+            "name": "Fine Motion",
+            "path_id": 6354159105895296475,
+            "block_id": 39,
+            "clip_length": 68,
+            "processed": "<story>It's not about the data. \n<story>I mean..."
+        },
+        {
+            "text": "I just want to spend a little more time talking with you.",
+            "name": "Fine Motion",
+            "path_id": -5818454501809359467,
+            "block_id": 40,
+            "clip_length": 77,
+            "processed": "<story>I just want to spend a little more time talking with you."
+        },
+        {
+            "text": "Don't bother. \nIf you wanna chat, go talk with your trainer for all I care.",
+            "name": "Air Shakur",
+            "path_id": 2042011663989349328,
+            "block_id": 41,
+            "clip_length": 81,
+            "processed": "<story>Don't bother. \n<story>If you wanna chat, go talk with your trainer for all I care."
+        },
+        {
+            "text": "Oh. Right, you. \n...You better keep your eye on her.",
+            "name": "Air Shakur",
+            "path_id": -6134339341795217884,
+            "block_id": 42,
+            "clip_length": 77,
+            "choices": [
+                {
+                    "text": "...What do you mean by that?",
+                    "hash": "4b5bea62a0420be462a10552847b3ab40e0dc9a98411c3e062cb1decc590182d"
+                }
+            ],
+            "processed": "<story>Oh. Right, you. \n<story>...You better keep your eye on her."
+        },
+        {
+            "text": "......",
+            "name": "Air Shakur",
+            "path_id": -3754894724589112626,
+            "block_id": 43,
+            "clip_length": 55,
+            "processed": "<story>......"
+        },
+        {
+            "text": "...I mean, don't just let her mess around all the time.",
+            "name": "Air Shakur",
+            "path_id": 2351360783810379298,
+            "block_id": 44,
+            "clip_length": 76,
+            "processed": "<story>...I mean, don't just let her mess around all the time."
+        },
+        {
+            "text": "――It's your job to keep her running till the very end.",
+            "name": "Air Shakur",
+            "path_id": -3818187929363026932,
+            "block_id": 45,
+            "clip_length": 71,
+            "processed": "<story>――It's your job to keep her running till the very end."
+        },
+        {
+            "text": "Shakur's the same as always, huh? \nShe sure has a unique way of communicating.",
+            "name": "Fine Motion",
+            "path_id": 8823942115400554661,
+            "block_id": 46,
+            "clip_length": 91,
+            "choices": [
+                {
+                    "text": "You really like that about her, huh.",
+                    "hash": "f5017c25d1bef2964e2cb7e16e8f47ee92e296a60c065d240e6a21be4e1a38e9"
+                },
+                {
+                    "text": "You really like that about her, huh.",
+                    "hash": "875bfbe70328bb2db4f64621ec0107f4ee51901d62a61a43378bb0541df7b2ad"
+                }
+            ],
+            "processed": "<story>Shakur's the same as always, huh? \n<story>She sure has a unique way of communicating."
+        },
+        {
+            "text": "Haha, you figured it out?",
+            "name": "Fine Motion",
+            "path_id": 4939186329439822695,
+            "block_id": 47,
+            "clip_length": 63,
+            "processed": "<story>Haha, you figured it out?"
+        },
+        {
+            "text": "You're right. Shakur's different from all the other friends I've \nmade here.",
+            "name": "Fine Motion",
+            "path_id": -9120459749420840397,
+            "block_id": 48,
+            "clip_length": 89,
+            "processed": "<story>You're right. Shakur's different from all the other friends I've \n<story>made here."
+        },
+        {
+            "text": "It's not just the way she talks and acts... \nOh, to be clear, I still love that about her.",
+            "name": "Fine Motion",
+            "path_id": 623407515128712145,
+            "block_id": 49,
+            "clip_length": 94,
+            "processed": "<story>It's not just the way she talks and acts... \n<story>Oh, to be clear, I still love that about her."
+        },
+        {
+            "text": "But the most important thing is that I really respect her... \n...I suppose.",
+            "name": "Fine Motion",
+            "path_id": 2543545670362641327,
+            "block_id": 50,
+            "clip_length": 68,
+            "processed": "<story>But the most important thing is that I really respect her... \n<story>...I suppose."
+        },
+        {
+            "text": "Even in the depths of despair, she won't stop thinking of ways \nout.",
+            "name": "Fine Motion",
+            "path_id": 5251175271490276215,
+            "block_id": 51,
+            "clip_length": 78,
+            "processed": "<story>Even in the depths of despair, she won't stop thinking of ways \n<story>out."
+        },
+        {
+            "text": "She's so smart, and so cool. \nThat's what I like about her.",
+            "name": "Fine Motion",
+            "path_id": -6090616409078746244,
+            "block_id": 52,
+            "clip_length": 81,
+            "processed": "<story>She's so smart, and so cool. \n<story>That's what I like about her."
+        },
+        {
+            "text": "I could feel the respect in her words when she spoke about \nher.",
+            "name": "",
+            "path_id": -4467264667717705014,
+            "block_id": 53,
+            "clip_length": 86,
+            "processed": "<story>I could feel the respect in her words when she spoke about \n<story>her."
+        },
+        {
+            "text": "But what does Air Shakur think of Fine? \nIt seemed like Fine's talent caught Shakur's eye, and there was \nsome analysis going on, but...",
+            "name": "",
+            "path_id": 1042471228052958148,
+            "block_id": 54,
+            "clip_length": 110,
+            "processed": "<story>But what does Air Shakur think of Fine? \n<story>It seemed like Fine's talent caught Shakur's eye, and there was \n<story>some analysis going on, but..."
+        },
+        {
+            "text": "...Especially if that data is on people who are different from all \nthe rest.",
+            "name": "Air Shakur",
+            "path_id": -2562257687974841639,
+            "block_id": 55,
+            "clip_length": 77,
+            "processed": "<story>...Especially if that data is on people who are different from all \n<story>the rest."
+        },
+        {
+            "text": "It was like Shakur felt \"something else\" that set Fine Motion \napart...",
+            "name": "",
+            "path_id": -1517531328959129379,
+            "block_id": 56,
+            "clip_length": 80,
+            "processed": "<story>It was like Shakur felt \"something else\" that set Fine Motion \n<story>apart..."
+        }
+    ],
+    "title": ""
+}

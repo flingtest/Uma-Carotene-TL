@@ -1,0 +1,256 @@
+{
+    "type": "story",
+    "row_index": 6047,
+    "file_name": "story/data/50/1022/storytimeline_501022105",
+    "hash": "PR55MIFEIGJTJKRSR7SODJAUQVOB6TNM",
+    "data": [
+        {
+            "text": "",
+            "name": "",
+            "path_id": -6176265523894336252,
+            "block_id": 0,
+            "clip_length": 45
+        },
+        {
+            "text": "The time came for the Fine Motion's second summer training.",
+            "name": "",
+            "path_id": -5452294668040122170,
+            "block_id": 1,
+            "clip_length": 76,
+            "processed": "<story>The time came for the Fine Motion's second summer training."
+        },
+        {
+            "text": "OK, Fine! Let's go, Fine~~! \nGooooo!",
+            "name": "Fine Motion",
+            "path_id": 3711357431984608159,
+            "block_id": 2,
+            "clip_length": 67,
+            "choices": [
+                {
+                    "text": "You're really getting into it!",
+                    "hash": "b8e65b503936c29c0b7f41c7c05ba48fd053175ed14bbcecc6ecfbe349ea46ab"
+                },
+                {
+                    "text": "You're really getting into it!",
+                    "hash": "290a78369089416542bcc5c248a26b6883ddba30538a219d3b2bf79f2eaf1ac6"
+                }
+            ],
+            "processed": "<story>OK, Fine! Let's go, Fine~~! \n<story>Gooooo!"
+        },
+        {
+            "text": "Of course I am! \nAfter all――",
+            "name": "Fine Motion",
+            "path_id": -7991062674152664893,
+            "block_id": 3,
+            "clip_length": 61,
+            "processed": "<story>Of course I am! \n<story>After all――"
+        },
+        {
+            "text": "This is the year where I'm going to eat ramen from every last \nstore on this beach!",
+            "name": "Fine Motion",
+            "path_id": -3237837572361684442,
+            "block_id": 4,
+            "clip_length": 77,
+            "choices": [
+                {
+                    "text": "Wait, that's what you're focused on!?",
+                    "hash": "0023cc6fca547954376c3576e6e82b736a467fa334606b80ebe16239dbd44c73"
+                }
+            ],
+            "processed": "<story>This is the year where I'm going to eat ramen from every last \n<story>store on this beach!"
+        },
+        {
+            "text": "Well, it's not good for my health if I eat nothing but ramen all \nthe time, right?",
+            "name": "Fine Motion",
+            "path_id": -8646546883139774333,
+            "block_id": 5,
+            "clip_length": 86,
+            "processed": "<story>Well, it's not good for my health if I eat nothing but ramen all \n<story>the time, right?"
+        },
+        {
+            "text": "So I couldn't get to every place last year... \nAnd this year, we have a race scheduled in the middle of camp, \ndon't we?",
+            "name": "Fine Motion",
+            "path_id": 3464419546694322598,
+            "block_id": 6,
+            "clip_length": 95,
+            "choices": [
+                {
+                    "text": "Yeah, the Sapporo Kinen.",
+                    "hash": "71393ddd93d5408cbca69bf24e03d740f49df043969e5050180be8720e7e349a"
+                },
+                {
+                    "text": "Right, the Sapporo Kinen.",
+                    "hash": "d9025732172efef493fe33022e7305ff6e37ba9968d20424e7bb62af50e06960"
+                }
+            ],
+            "processed": "<story>So I couldn't get to every place last year... \n<story>And this year, we have a race scheduled in the middle of camp, \n<story>don't we?"
+        },
+        {
+            "text": "There's a lot keeping me from getting to every ramen place. \nBut I've got a plan!",
+            "name": "Fine Motion",
+            "path_id": 1423435511928698058,
+            "block_id": 7,
+            "clip_length": 80,
+            "processed": "<story>There's a lot keeping me from getting to every ramen place. \n<story>But I've got a plan!"
+        },
+        {
+            "text": "And the key phrase for that plan... \n\"Hey, let me try a bite♪\"!",
+            "name": "Fine Motion",
+            "path_id": 5164638802453956552,
+            "block_id": 8,
+            "clip_length": 69,
+            "processed": "<story>And the key phrase for that plan... \n<story>\"Hey, let me try a bite♪\"!"
+        },
+        {
+            "text": "It's a strategy I picked up at the academy! \nIf I share with others, I can get a little taste of everything!",
+            "name": "Fine Motion",
+            "path_id": -8699427339051131578,
+            "block_id": 9,
+            "clip_length": 97,
+            "processed": "<story>It's a strategy I picked up at the academy! \n<story>If I share with others, I can get a little taste of everything!"
+        },
+        {
+            "text": "Now that I've explained things, I'm looking forward to your help♪",
+            "name": "Fine Motion",
+            "path_id": 7102760823550786443,
+            "block_id": 10,
+            "clip_length": 68,
+            "choices": [
+                {
+                    "text": "Sure, so long as you're focused on training.",
+                    "hash": "44e0ce14e74d0d771c846348bdacc95e18b8d3c69799f2578b83154057f399f0",
+                    "processed": "<size=38>Sure, so long as you're focused on training.</size>"
+                },
+                {
+                    "text": "Sure, so long as you're focused on training.",
+                    "hash": "a9626e7dc4f34f965b84c5c5a388b79d4615a47415dc752230bf8fcbaf98acc0",
+                    "processed": "<size=38>Sure, so long as you're focused on training.</size>"
+                }
+            ],
+            "processed": "<story>Now that I've explained things, I'm looking forward to your help♪"
+        },
+        {
+            "text": "Of course I will! That should go without saying! \n......Oh.",
+            "name": "Fine Motion",
+            "path_id": 5354923220766689610,
+            "block_id": 11,
+            "clip_length": 75,
+            "processed": "<story>Of course I will! That should go without saying! \n<story>......Oh."
+        },
+        {
+            "text": "......Shakur.",
+            "name": "Fine Motion",
+            "path_id": -7879584234517965392,
+            "block_id": 12,
+            "clip_length": 55,
+            "processed": "<story>......Shakur."
+        },
+        {
+            "text": "<i>Sigh...</i>",
+            "name": "Air Shakur",
+            "path_id": 5913092242811991084,
+            "block_id": 13,
+            "clip_length": 51,
+            "processed": "<story><i>Sigh...</i>"
+        },
+        {
+            "text": "So you're not hesitating anymore, huh.",
+            "name": "Air Shakur",
+            "path_id": 1560556386512756921,
+            "block_id": 14,
+            "clip_length": 60,
+            "processed": "<story>So you're not hesitating anymore, huh."
+        },
+        {
+            "text": "You'll play your role. You're going to follow that script, down to \nthe letter.",
+            "name": "Air Shakur",
+            "path_id": -758129640153267701,
+            "block_id": 15,
+            "clip_length": 65,
+            "processed": "<story>You'll play your role. You're going to follow that script, down to \n<story>the letter."
+        },
+        {
+            "text": "Mmhm. I'm sorry. \nI can't be your god.",
+            "name": "Fine Motion",
+            "path_id": -2755823673156744226,
+            "block_id": 16,
+            "clip_length": 71,
+            "processed": "<story>Mmhm. I'm sorry. \n<story>I can't be your god."
+        },
+        {
+            "text": "But I'll play my role and put on an amazing show. \nI'll run so well, even your heart will skip a beat.",
+            "name": "Fine Motion",
+            "path_id": 3466397115040111093,
+            "block_id": 17,
+            "clip_length": 85,
+            "processed": "<story>But I'll play my role and put on an amazing show. \n<story>I'll run so well, even your heart will skip a beat."
+        },
+        {
+            "text": "So I can't be your god... \nBut would you let me be your angel?",
+            "name": "Fine Motion",
+            "path_id": 7979937224129099724,
+            "block_id": 18,
+            "clip_length": 68,
+            "processed": "<story>So I can't be your god... \n<story>But would you let me be your angel?"
+        },
+        {
+            "text": "......Dumbass.",
+            "name": "Air Shakur",
+            "path_id": -5158465987848639808,
+            "block_id": 19,
+            "clip_length": 52,
+            "processed": "<story>......Dumbass."
+        },
+        {
+            "text": "I don't need a god or an angel. \nIf you're not gonna do it...",
+            "name": "Air Shakur",
+            "path_id": -2444083795292332244,
+            "block_id": 20,
+            "clip_length": 75,
+            "processed": "<story>I don't need a god or an angel. \n<story>If you're not gonna do it..."
+        },
+        {
+            "text": "...then I'll just do it myself.",
+            "name": "Air Shakur",
+            "path_id": -2843846042120339945,
+            "block_id": 21,
+            "clip_length": 59,
+            "processed": "<story>...then I'll just do it myself."
+        },
+        {
+            "text": "In the end I never learned the reason why Air Shakur clung so \ntightly to Fine Motion... But――",
+            "name": "",
+            "path_id": 7030435143317831170,
+            "block_id": 22,
+            "clip_length": 114,
+            "choices": [
+                {
+                    "text": "It looks like she's made up her mind.",
+                    "hash": "094d3a25efc1ee55d363deed58e61fb6f669e228651bdb7b19e37ebc8faebf37"
+                },
+                {
+                    "text": "It looks like she's made up her mind.",
+                    "hash": "287ac217c99b4a7e5c0c74e22b78e588b67a1d9f9d610feab1c52edbf6991efa"
+                }
+            ],
+            "processed": "<story>In the end I never learned the reason why Air Shakur clung so \n<story>tightly to Fine Motion... But――"
+        },
+        {
+            "text": "Yes. \nShe's going to face that wall blocking her way, head-on.",
+            "name": "Fine Motion",
+            "path_id": 9159047654564724020,
+            "block_id": 23,
+            "clip_length": 75,
+            "processed": "<story>Yes. \n<story>She's going to face that wall blocking her way, head-on."
+        },
+        {
+            "text": "I've got to give it my all and get stronger, too!",
+            "name": "Fine Motion",
+            "path_id": 8388448723054512873,
+            "block_id": 24,
+            "clip_length": 71,
+            "processed": "<story>I've got to give it my all and get stronger, too!"
+        }
+    ],
+    "title": "3rd year summer training - Start!"
+}

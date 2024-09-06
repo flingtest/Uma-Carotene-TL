@@ -1,0 +1,502 @@
+{
+    "type": "story",
+    "row_index": 17433,
+    "file_name": "story/data/50/1022/storytimeline_501022104",
+    "hash": "ZQR5GDV4SYW2HYL3CKDI3TP4AIV22VQN",
+    "data": [
+        {
+            "text": "",
+            "name": "",
+            "path_id": -4184709676984045059,
+            "block_id": 0,
+            "clip_length": 45
+        },
+        {
+            "text": "YAAAAAA!!!",
+            "name": "Fine Motion",
+            "path_id": 5601196116959970744,
+            "block_id": 1,
+            "clip_length": 62,
+            "processed": "<story>YAAAAAA!!!"
+        },
+        {
+            "text": "....!!",
+            "name": "Senpai Umamusume",
+            "path_id": 4403741786719094402,
+            "block_id": 2,
+            "clip_length": 51,
+            "processed": "<story>....!!"
+        },
+        {
+            "text": "Fine Motion was already quite the natural runner. \nThroughout the spring, and now the summer, we trained to \nsteadily improve her innate skills.",
+            "name": "",
+            "path_id": -4925698443584949124,
+            "block_id": 3,
+            "clip_length": 119,
+            "processed": "<story>Fine Motion was already quite the natural runner. \n<story>Throughout the spring, and now the summer, we trained to \n<story>steadily improve her innate skills."
+        },
+        {
+            "text": "Ummm...<i> \"Senpai\"!</i>",
+            "name": "Fine Motion",
+            "path_id": 8331318943606376583,
+            "block_id": 4,
+            "clip_length": 58,
+            "processed": "<story>Ummm...<i> \"Senpai\"!</i>"
+        },
+        {
+            "text": "Thank you for training with me, Senpai♪ \nRunning together made it a lot of fun.",
+            "name": "Fine Motion",
+            "path_id": 2128049807542256114,
+            "block_id": 5,
+            "clip_length": 93,
+            "processed": "<story>Thank you for training with me, Senpai♪ \n<story>Running together made it a lot of fun."
+        },
+        {
+            "text": "Ha... Ha... \nAre you for real...? You're not even a little tired...",
+            "name": "Senpai Umamusume",
+            "path_id": 5580433842987709993,
+            "block_id": 6,
+            "clip_length": 86,
+            "processed": "<story>Ha... Ha... \n<story>Are you for real...? You're not even a little tired..."
+        },
+        {
+            "text": "Now, she could go toe-to-toe against a more experienced \nUmamusume with ease. Her growth was truly incredible...",
+            "name": "",
+            "path_id": 4590234034898604833,
+            "block_id": 7,
+            "clip_length": 97,
+            "choices": [
+                {
+                    "text": "(And... she's only going to get better!)",
+                    "hash": "773a6106289809f722ba2951bf6efbde6c9108db01fad5c1e85dae242b2b4eb9",
+                    "processed": "<size=43>(And... she's only going to get better!)</size>"
+                }
+            ],
+            "processed": "<story>Now, she could go toe-to-toe against a more experienced \n<story>Umamusume with ease. Her growth was truly incredible..."
+        },
+        {
+            "text": "Hmm? Are you all right, Trainer? \nYour eyes look a bit teary――",
+            "name": "Fine Motion",
+            "path_id": 6971880792922373822,
+            "block_id": 8,
+            "clip_length": 84,
+            "processed": "<story>Hmm? Are you all right, Trainer? \n<story>Your eyes look a bit teary――"
+        },
+        {
+            "text": "――RrrraaaAAAAAHHH！！",
+            "name": "Air Shakur",
+            "path_id": -1925617133772110358,
+            "block_id": 9,
+            "clip_length": 79,
+            "processed": "<story>――RrrraaaAAAAAHHH！！"
+        },
+        {
+            "text": "...! \nI know that voice...",
+            "name": "Fine Motion",
+            "path_id": 6010908443882809688,
+            "block_id": 10,
+            "clip_length": 58,
+            "processed": "<story>...! \n<story>I know that voice..."
+        },
+        {
+            "text": "Hahhh... Hahhh....! \nDammit, still coming up short...!",
+            "name": "Air Shakur",
+            "path_id": -4569326220464745718,
+            "block_id": 11,
+            "clip_length": 91,
+            "processed": "<story>Hahhh... Hahhh....! \n<story>Dammit, still coming up short...!"
+        },
+        {
+            "text": "Tsk. This ain't working out either. \nThen I'll try...",
+            "name": "Air Shakur",
+            "path_id": 6537972629982265081,
+            "block_id": 12,
+            "clip_length": 72,
+            "processed": "<story>Tsk. This ain't working out either. \n<story>Then I'll try..."
+        },
+        {
+            "text": "..................",
+            "name": "Air Shakur",
+            "path_id": -2293686991282003698,
+            "block_id": 13,
+            "clip_length": 55,
+            "processed": "<story>.................."
+        },
+        {
+            "text": ".......",
+            "name": "Fine Motion",
+            "path_id": -5680421873242742692,
+            "block_id": 14,
+            "clip_length": 48,
+            "choices": [
+                {
+                    "text": "Want to go get her?",
+                    "hash": "3b3060340c75d32fb08d1d82395a27be19a25477bb12107eb4f8a2906d442373"
+                }
+            ],
+            "processed": "<story>......."
+        },
+        {
+            "text": "......No.",
+            "name": "Fine Motion",
+            "path_id": 3033390108297188242,
+            "block_id": 15,
+            "clip_length": 52,
+            "processed": "<story>......No."
+        },
+        {
+            "text": "You know, I love watching Shakur whenever she's deep in \nthought.",
+            "name": "Fine Motion",
+            "path_id": 6200591615586915232,
+            "block_id": 16,
+            "clip_length": 80,
+            "processed": "<story>You know, I love watching Shakur whenever she's deep in \n<story>thought."
+        },
+        {
+            "text": "Most of the time she notices and gets mad, though!",
+            "name": "Fine Motion",
+            "path_id": -1331774183685679005,
+            "block_id": 17,
+            "clip_length": 80,
+            "processed": "<story>Most of the time she notices and gets mad, though!"
+        },
+        {
+            "text": ".....Can we move on to the next part of training? \nI want to work as hard as she does!",
+            "name": "Fine Motion",
+            "path_id": 6230656857570042522,
+            "block_id": 18,
+            "clip_length": 85,
+            "choices": [
+                {
+                    "text": "Sure, but let's take a break first.",
+                    "hash": "7473f67eaf2770058a83971f7d8ce4cf8cbbd0d3a277456320fa14f98bc36608"
+                }
+            ],
+            "processed": "<story>.....Can we move on to the next part of training? \n<story>I want to work as hard as she does!"
+        },
+        {
+            "text": "――Oh, there she is! \nYour Highness Fine Motion!",
+            "name": "Reporter A",
+            "path_id": 1723642867397119962,
+            "block_id": 19,
+            "clip_length": 73,
+            "processed": "<story>――Oh, there she is! \n<story>Your Highness Fine Motion!"
+        },
+        {
+            "text": "Oh, who may you be...?",
+            "name": "Fine Motion",
+            "path_id": 2914154678852552782,
+            "block_id": 20,
+            "clip_length": 56,
+            "processed": "<story>Oh, who may you be...?"
+        },
+        {
+            "text": "Oh, y'know, just some reporter! You're all anyone's talking about \nthese days, see! You're even the super, duper, duper, duper \nfavorite to win!",
+            "name": "Reporter A",
+            "path_id": -6192776168020476906,
+            "block_id": 21,
+            "clip_length": 114,
+            "processed": "<story>Oh, y'know, just some reporter! You're all anyone's talking about \n<story>these days, see! You're even the super, duper, duper, duper \n<story>favorite to win!"
+        },
+        {
+            "text": "My, I'm honored. \nThank you very much.",
+            "name": "Fine Motion",
+            "path_id": -7691388166192505309,
+            "block_id": 22,
+            "clip_length": 71,
+            "processed": "<story>My, I'm honored. \n<story>Thank you very much."
+        },
+        {
+            "text": "Well, don't thank me, y'know~. But, uh, heheh, you're strong, \nand beautiful, and to top it all off, your running \njust brings a smile to our faces!",
+            "name": "Reporter A",
+            "path_id": 2508503076002106335,
+            "block_id": 23,
+            "clip_length": 91,
+            "processed": "<story>Well, don't thank me, y'know~. But, uh, heheh, you're strong, \n<story>and beautiful, and to top it all off, your running \n<story>just brings a smile to our faces!"
+        },
+        {
+            "text": "You're just amazing, Your Highness! \nSo, well, y'know? Can we get a pictu――",
+            "name": "Reporter A",
+            "path_id": 837518107655141445,
+            "block_id": 24,
+            "clip_length": 78,
+            "processed": "<story>You're just amazing, Your Highness! \n<story>So, well, y'know? Can we get a pictu――"
+        },
+        {
+            "text": "――Pardon the interruption, but these inquiries should be made \nthrough the proper channels with the academy.",
+            "name": "SP Commander",
+            "path_id": 5547199086090718026,
+            "block_id": 25,
+            "clip_length": 86,
+            "processed": "<story>――Pardon the interruption, but these inquiries should be made \n<story>through the proper channels with the academy."
+        },
+        {
+            "text": "Oh! You must be the bodyguard! \nI think you'd make a real pretty picture, so mind if I take a \nsnapshot?",
+            "name": "Reporter A",
+            "path_id": -6433026073738434710,
+            "block_id": 26,
+            "clip_length": 97,
+            "processed": "<story>Oh! You must be the bodyguard! \n<story>I think you'd make a real pretty picture, so mind if I take a \n<story>snapshot?"
+        },
+        {
+            "text": "......!",
+            "name": "SP Commander",
+            "path_id": 3645178017759503179,
+            "block_id": 27,
+            "clip_length": 48,
+            "processed": "<story>......!"
+        },
+        {
+            "text": "H- hey, don't go around getting pictures behind our backs! \nLet us get in on this!",
+            "name": "Reporter B",
+            "path_id": -5765309895563537431,
+            "block_id": 28,
+            "clip_length": 78,
+            "processed": "<story>H- hey, don't go around getting pictures behind our backs! \n<story>Let us get in on this!"
+        },
+        {
+            "text": "I'm with the station! We can go live any time, so do you think \nwe can get an interview!?",
+            "name": "Reporter C",
+            "path_id": -7209228285228355,
+            "block_id": 29,
+            "clip_length": 91,
+            "processed": "<story>I'm with the station! We can go live any time, so do you think \n<story>we can get an interview!?"
+        },
+        {
+            "text": "Oh, dear, just look at this crowd... \nI really am the favorite to win~",
+            "name": "Fine Motion",
+            "path_id": -5469933626463122847,
+            "block_id": 30,
+            "clip_length": 75,
+            "choices": [
+                {
+                    "text": "Can we get out of here first!?",
+                    "hash": "08f4677b2fd1dcecfa9cfbcfcb13b501a4de1ef081fee52917e00dc0bfdae376"
+                },
+                {
+                    "text": "Can we get out of here first!?",
+                    "hash": "1067f1bb132920269081c6a6f70cf76e9be24b20c1c0483ac21f0515a2fcc573"
+                }
+            ],
+            "processed": "<story>Oh, dear, just look at this crowd... \n<story>I really am the favorite to win~"
+        },
+        {
+            "text": "A crowd had formed while we were standing around. It was \nholding up the training camp. For all the Umamusume here, \nbut especially for Fine, I wanted to escape quickly and safely.",
+            "name": "",
+            "path_id": -4103112111155258654,
+            "block_id": 31,
+            "clip_length": 118,
+            "choices": [
+                {
+                    "text": "We'll need to \"force\" our way out...",
+                    "hash": "a5d62f9ed99445d0bffbd865e1d255d4c81f2ca3bb3b08dfa359d506175877f3"
+                },
+                {
+                    "text": "Let's talk our way out of this!",
+                    "hash": "ef1dbb57f4d2bc16ee09b39a6d5231ceb56571d8df38cd8e8e46e19f782a678d"
+                }
+            ],
+            "processed": "<story>A crowd had formed while we were standing around. It was \n<story>holding up the training camp. For all the Umamusume here, \n<story>but especially for Fine, I wanted to escape quickly and safely."
+        },
+        {
+            "text": "If it's come to this...",
+            "name": "",
+            "path_id": -7116813903985711703,
+            "block_id": 32,
+            "clip_length": 56,
+            "choices": [
+                {
+                    "text": "Commander! Please!",
+                    "hash": "e270e6d539e990d8487bcb07966b9a96a6d6bb7f3c88d64f43d8d96fcfc5ca30"
+                }
+            ],
+            "processed": "<story>If it's come to this..."
+        },
+        {
+            "text": "Understood. \nI'll escort the two of you in.",
+            "name": "SP Commander",
+            "path_id": 7616928429687086971,
+            "block_id": 33,
+            "clip_length": 77,
+            "choices": [
+                {
+                    "text": "Come on, Fine!",
+                    "hash": "a7cb40fa601a0270c3f6187d6aa6583528e87a22797261d41359bb2edb154489"
+                }
+            ],
+            "processed": "<story>Understood. \n<story>I'll escort the two of you in."
+        },
+        {
+            "text": "Okay! \nWell, everyone, it's been a pleasure. \nLet's meet in a more formal setting next time.",
+            "name": "Fine Motion",
+            "path_id": -1068103836504496734,
+            "block_id": 34,
+            "clip_length": 81,
+            "processed": "<story>Okay! \n<story>Well, everyone, it's been a pleasure. \n<story>Let's meet in a more formal setting next time."
+        },
+        {
+            "text": "Ahhh, Your Highness~!",
+            "name": "The Reporters",
+            "path_id": 7438392481435640880,
+            "block_id": 35,
+            "clip_length": 55,
+            "processed": "<story>Ahhh, Your Highness~!"
+        },
+        {
+            "text": "...Heehee.",
+            "name": "Fine Motion",
+            "path_id": -5801478573481728987,
+            "block_id": 36,
+            "clip_length": 52,
+            "processed": "<story>...Heehee."
+        },
+        {
+            "text": "You said \"force our way out\" out of nowhere, so I almost thought \nyou were going to start fighting everyone there.",
+            "name": "Fine Motion",
+            "path_id": 3628874093681558097,
+            "block_id": 37,
+            "clip_length": 97,
+            "choices": [
+                {
+                    "text": "Sorry. That was pretty pathetic of me.",
+                    "hash": "45c1c4883622cab7f91b83c7115358fe6ea4946710c45fc1f312a79e626cdcc4"
+                }
+            ],
+            "processed": "<story>You said \"force our way out\" out of nowhere, so I almost thought \n<story>you were going to start fighting everyone there."
+        },
+        {
+            "text": "But, if I tried to get us out of there without a clue what I was \ndoing, there's a real possibility I would only make things worse. \nPathetic as it was, the best option was leave it to a professional.",
+            "name": "",
+            "path_id": 6641253117463703125,
+            "block_id": 38,
+            "clip_length": 102,
+            "processed": "<story>But, if I tried to get us out of there without a clue what I was \n<story>doing, there's a real possibility I would only make things worse. \n<story>Pathetic as it was, the best option was leave it to a professional."
+        },
+        {
+            "text": "I don't think you were pathetic at all. \nYou made the right call.",
+            "name": "Fine Motion",
+            "path_id": 2949480930987935453,
+            "block_id": 39,
+            "clip_length": 76,
+            "processed": "<story>I don't think you were pathetic at all. \n<story>You made the right call."
+        },
+        {
+            "text": "If you make a call like that, I know I can count on you. \nIt reminded me just how happy I am to be with you. Heehee.",
+            "name": "Fine Motion",
+            "path_id": 7035392776824309121,
+            "block_id": 40,
+            "clip_length": 86,
+            "processed": "<story>If you make a call like that, I know I can count on you. \n<story>It reminded me just how happy I am to be with you. Heehee."
+        },
+        {
+            "text": "",
+            "name": "Reporter D",
+            "path_id": -4328036148945200212,
+            "block_id": 41,
+            "clip_length": 82
+        },
+        {
+            "text": "",
+            "name": "Onlooker",
+            "path_id": -6202869187436624513,
+            "block_id": 42,
+            "clip_length": 78
+        },
+        {
+            "text": "",
+            "name": "",
+            "path_id": -8591120182285391593,
+            "block_id": 43,
+            "clip_length": 94,
+            "choices": [
+                {
+                    "text": "",
+                    "hash": "111de38e6663c10f046bf2c602e02596647a13c5879b3037584dbb1b439d0dc2"
+                }
+            ]
+        },
+        {
+            "text": "",
+            "name": "Fine Motion",
+            "path_id": 2310917652390895572,
+            "block_id": 44,
+            "clip_length": 55
+        },
+        {
+            "text": "",
+            "name": "SP Commander",
+            "path_id": -6314552548247999347,
+            "block_id": 45,
+            "clip_length": 59
+        },
+        {
+            "text": "",
+            "name": "",
+            "path_id": 8521036061961552506,
+            "block_id": 46,
+            "clip_length": 110
+        },
+        {
+            "text": "",
+            "name": "",
+            "path_id": 8010008092465663811,
+            "block_id": 47,
+            "clip_length": 95
+        },
+        {
+            "text": "",
+            "name": "",
+            "path_id": -5161394304953668684,
+            "block_id": 48,
+            "clip_length": 99
+        },
+        {
+            "text": "",
+            "name": "Fine Motion",
+            "path_id": -3739150200293696844,
+            "block_id": 49,
+            "clip_length": 84,
+            "choices": [
+                {
+                    "text": "",
+                    "hash": "2b8d452d3d55825fc7da52e2ad8c6daf254ea98223d4c9e840a47db582053713"
+                }
+            ]
+        },
+        {
+            "text": "",
+            "name": "Fine Motion",
+            "path_id": -7536622611281275124,
+            "block_id": 50,
+            "clip_length": 72
+        },
+        {
+            "text": "",
+            "name": "SP Commander",
+            "path_id": 8035065675595754566,
+            "block_id": 51,
+            "clip_length": 105,
+            "choices": [
+                {
+                    "text": "",
+                    "hash": "ef278ec01c5366758ffadf0690af3583b4a2a4b31f22900228a35e197508c3bb"
+                }
+            ]
+        },
+        {
+            "text": "",
+            "name": "Fine Motion",
+            "path_id": 1940467529372491325,
+            "block_id": 52,
+            "clip_length": 112
+        },
+        {
+            "text": "",
+            "name": "Fine Motion",
+            "path_id": -8581522360872883726,
+            "block_id": 53,
+            "clip_length": 76
+        }
+    ],
+    "title": "Second year summer training"
+}

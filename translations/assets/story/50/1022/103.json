@@ -1,0 +1,318 @@
+{
+    "type": "story",
+    "row_index": 6046,
+    "file_name": "story/data/50/1022/storytimeline_501022103",
+    "hash": "IK3RFA6MDBMLZM7ZXOTSE5XAPF5RB5IK",
+    "data": [
+        {
+            "text": "",
+            "name": "",
+            "path_id": 7400984822927023081,
+            "block_id": 0,
+            "clip_length": 45
+        },
+        {
+            "text": "Today's the first day of summer training camp. \nFine Motion had been looking forward to this for so long...",
+            "name": "",
+            "path_id": 5522147947344100576,
+            "block_id": 1,
+            "clip_length": 103,
+            "processed": "<story>Today's the first day of summer training camp. \n<story>Fine Motion had been looking forward to this for so long..."
+        },
+        {
+            "text": "Wow... So this is the camp! \n...Er, so this the lobby? \nAre the rooms somewhere else, then?",
+            "name": "Fine Motion",
+            "path_id": -7443956089308349532,
+            "block_id": 2,
+            "clip_length": 90,
+            "choices": [
+                {
+                    "text": "Everything's all in one building.",
+                    "hash": "862beb87eff5796dd46698907891fa1a8dd7707afb525e8fef9aafe7464a6a42"
+                }
+            ],
+            "processed": "<story>Wow... So this is the camp! \n<story>...Er, so this the lobby? \n<story>Are the rooms somewhere else, then?"
+        },
+        {
+            "text": "Oh, is it!?",
+            "name": "Fine Motion",
+            "path_id": -500291016234448247,
+            "block_id": 3,
+            "clip_length": 56,
+            "processed": "<story>Oh, is it!?"
+        },
+        {
+            "text": "Japanese buildings really are space-efficient! \nI thought the same thing when I first saw the school dorms.",
+            "name": "Fine Motion",
+            "path_id": -7344265384951550055,
+            "block_id": 4,
+            "clip_length": 93,
+            "processed": "<story>Japanese buildings really are space-efficient! \n<story>I thought the same thing when I first saw the school dorms."
+        },
+        {
+            "text": "Your Highness, we've checked the rooms. All clear. \nAs for the luggage...",
+            "name": "SP Commander",
+            "path_id": -5140166968767697276,
+            "block_id": 5,
+            "clip_length": 90,
+            "processed": "<story>Your Highness, we've checked the rooms. All clear. \n<story>As for the luggage..."
+        },
+        {
+            "text": "I'll take it in myself. \nCan I ask you to handle the rest?",
+            "name": "Fine Motion",
+            "path_id": -5389241626187794973,
+            "block_id": 6,
+            "clip_length": 80,
+            "processed": "<story>I'll take it in myself. \n<story>Can I ask you to handle the rest?"
+        },
+        {
+            "text": "Of course. \nIf you'll excuse us, we'll be on standby.",
+            "name": "SP Commander",
+            "path_id": 4440741279808510688,
+            "block_id": 7,
+            "clip_length": 72,
+            "processed": "<story>Of course. \n<story>If you'll excuse us, we'll be on standby."
+        },
+        {
+            "text": "All of Fine Motion's bodyguards stepped off to the sidelines, \nwithout letting her out of their sights.",
+            "name": "",
+            "path_id": -8587729615695872786,
+            "block_id": 8,
+            "clip_length": 105,
+            "choices": [
+                {
+                    "text": "Should they stay out in the heat like that?",
+                    "hash": "937670e1047f61f7f1d1d91bcd5bd9286f538467325ee3a56c67d5ef4feff5e2",
+                    "processed": "<size=39>Should they stay out in the heat like that?</size>"
+                }
+            ],
+            "processed": "<story>All of Fine Motion's bodyguards stepped off to the sidelines, \n<story>without letting her out of their sights."
+        },
+        {
+            "text": "Don't worry about them, they're professionals! \nThey're all trained to work in harsh conditions.",
+            "name": "Fine Motion",
+            "path_id": -8130856708587791180,
+            "block_id": 9,
+            "clip_length": 84,
+            "processed": "<story>Don't worry about them, they're professionals! \n<story>They're all trained to work in harsh conditions."
+        },
+        {
+            "text": "Okay! Let's hit train with everything we've got, shall we?♪",
+            "name": "Fine Motion",
+            "path_id": 4733789582198263927,
+            "block_id": 10,
+            "clip_length": 85,
+            "choices": [
+                {
+                    "text": "For the Shuuka Sho!",
+                    "hash": "ab42dff55089c5f310b9c5a6e36c49d169b5f73c4636858e4a32d9262b8e743e"
+                }
+            ],
+            "processed": "<story>Okay! Let's hit train with everything we've got, shall we?♪"
+        },
+        {
+            "text": "Hoo- rah!",
+            "name": "Fine Motion",
+            "path_id": -1815525356664110186,
+            "block_id": 11,
+            "clip_length": 54,
+            "processed": "<story>Hoo- rah!"
+        },
+        {
+            "text": "Tsk! Hey, watch it!",
+            "name": "Air Shakur",
+            "path_id": -6342169608897553277,
+            "block_id": 12,
+            "clip_length": 64,
+            "processed": "<story>Tsk! Hey, watch it!"
+        },
+        {
+            "text": "S-sorry~.... \nEek~!",
+            "name": "Chatting Umamusume",
+            "path_id": 6844865771600111655,
+            "block_id": 13,
+            "clip_length": 72,
+            "processed": "<story>S-sorry~.... \n<story>Eek~!"
+        },
+        {
+            "text": "......",
+            "name": "Air Shakur",
+            "path_id": 8822502904043543130,
+            "block_id": 14,
+            "clip_length": 48,
+            "processed": "<story>......"
+        },
+        {
+            "text": "...Oh, my, looks like Hurricane Shakur is inbound!",
+            "name": "Fine Motion",
+            "path_id": -2481087628332081461,
+            "block_id": 15,
+            "clip_length": 73,
+            "processed": "<story>...Oh, my, looks like Hurricane Shakur is inbound!"
+        },
+        {
+            "text": "Double Crown Umamusume, Air Shakur. \nThough she hasn't been putting up results after earning that \ntitle.",
+            "name": "",
+            "path_id": -1608632037362842293,
+            "block_id": 16,
+            "clip_length": 93,
+            "processed": "<story>Double Crown Umamusume, Air Shakur. \n<story>Though she hasn't been putting up results after earning that \n<story>title."
+        },
+        {
+            "text": "She's a notorious data-head, so she's most likely here to collect \nsome more, but...",
+            "name": "",
+            "path_id": 4364653138439356735,
+            "block_id": 17,
+            "clip_length": 90,
+            "choices": [
+                {
+                    "text": "There must be a wall she can't get over.",
+                    "hash": "d9a1d1ebc2c44a176157e633713331065c561a193f34085e0521e328370e6f93",
+                    "processed": "<size=41>There must be a wall she can't get over.</size>"
+                }
+            ],
+            "processed": "<story>She's a notorious data-head, so she's most likely here to collect \n<story>some more, but..."
+        },
+        {
+            "text": "...It must be really hard for her.",
+            "name": "Fine Motion",
+            "path_id": -1852029146161006005,
+            "block_id": 18,
+            "clip_length": 68,
+            "processed": "<story>...It must be really hard for her."
+        },
+        {
+            "text": "But it's also a bit sad that she's as thorny as Gae Bolg.",
+            "name": "Fine Motion",
+            "path_id": 713827136009316826,
+            "block_id": 19,
+            "clip_length": 86,
+            "processed": "<story>But it's also a bit sad that she's as thorny as Gae Bolg."
+        },
+        {
+            "text": "...Wait here for a little bit!",
+            "name": "Fine Motion",
+            "path_id": 5854907884454230479,
+            "block_id": 20,
+            "clip_length": 60,
+            "processed": "<story>...Wait here for a little bit!"
+        },
+        {
+            "text": "Your Highness!? \nShe's dangerous, don't!",
+            "name": "SP Commander",
+            "path_id": 5501184250875895008,
+            "block_id": 21,
+            "clip_length": 69,
+            "choices": [
+                {
+                    "text": "She'll be fine.",
+                    "hash": "eac45b6855021e10962477f5af1f545f3e25f3d1397bf8a1a1c5c53306cfe0cc"
+                }
+            ],
+            "processed": "<story>Your Highness!? \n<story>She's dangerous, don't!"
+        },
+        {
+            "text": "But Her Highness said that girl was like the deadly Gae Bolg...",
+            "name": "SP Commander",
+            "path_id": 5821566551327215401,
+            "block_id": 22,
+            "clip_length": 75,
+            "choices": [
+                {
+                    "text": "She can handle it herself.",
+                    "hash": "3625ab7c9bde93741dcf2da272d2d62052dcb9bbef676d13733f04a2e773c898"
+                }
+            ],
+            "processed": "<story>But Her Highness said that girl was like the deadly Gae Bolg..."
+        },
+        {
+            "text": "Shakur! \nLet's go have a splash fight!",
+            "name": "Fine Motion",
+            "path_id": -5980770261337612999,
+            "block_id": 23,
+            "clip_length": 71,
+            "processed": "<story>Shakur! \n<story>Let's go have a splash fight!"
+        },
+        {
+            "text": "Hell no. Don't wanna. Piss off. \nMind your damn business.",
+            "name": "Air Shakur",
+            "path_id": -4717665067928532782,
+            "block_id": 24,
+            "clip_length": 68,
+            "processed": "<story>Hell no. Don't wanna. Piss off. \n<story>Mind your damn business."
+        },
+        {
+            "text": "Ehhh~ But isn't that what being young's all about~? \nI can go if you want...",
+            "name": "Fine Motion",
+            "path_id": -9168049802516432517,
+            "block_id": 25,
+            "clip_length": 86,
+            "processed": "<story>Ehhh~ But isn't that what being young's all about~? \n<story>I can go if you want..."
+        },
+        {
+            "text": "If you don't want to splash back, I'll have to do <i>all </i>the splashing<i> </i> \n<i>myself.</i>",
+            "name": "Fine Motion",
+            "path_id": 4544083234726128076,
+            "block_id": 26,
+            "clip_length": 77,
+            "processed": "<story>If you don't want to splash back, I'll have to do <i>all </i>the splashing<i> </i> \n<story><i>myself.</i>"
+        },
+        {
+            "text": "...!? \nHang on! Let me put down my PC first!",
+            "name": "Air Shakur",
+            "path_id": 3761630538409817855,
+            "block_id": 27,
+            "clip_length": 71,
+            "processed": "<story>...!? \n<story>Hang on! Let me put down my PC first!"
+        },
+        {
+            "text": "I'll give you five seconds, okay? \n<i>Fiiiive, foouuur, threeee, twooo...</i>",
+            "name": "Fine Motion",
+            "path_id": -5374753523213099334,
+            "block_id": 28,
+            "clip_length": 72,
+            "processed": "<story>I'll give you five seconds, okay? \n<story><i>Fiiiive, foouuur, threeee, twooo...</i>"
+        },
+        {
+            "text": "Shakur's stormy attitude was no match for the unstoppable force \nthat was Fine Motion.",
+            "name": "",
+            "path_id": 864439007820881595,
+            "block_id": 29,
+            "clip_length": 99,
+            "processed": "<story>Shakur's stormy attitude was no match for the unstoppable force \n<story>that was Fine Motion."
+        },
+        {
+            "text": "...Her Highness really enjoys stressing us out...",
+            "name": "SP Commander",
+            "path_id": -5600471863042459979,
+            "block_id": 30,
+            "clip_length": 76,
+            "processed": "<story>...Her Highness really enjoys stressing us out..."
+        },
+        {
+            "text": "Something similar happened after Her Highness first met Ms. Air \nShakur. When she saw the report from our background check, \nshe shouted quite happily...",
+            "name": "SP Commander",
+            "path_id": 8304311597167085575,
+            "block_id": 31,
+            "clip_length": 118,
+            "processed": "<story>Something similar happened after Her Highness first met Ms. Air \n<story>Shakur. When she saw the report from our background check, \n<story>she shouted quite happily..."
+        },
+        {
+            "text": "She seemed quite pleased that Shakur was bright enough to \nbetray what our investigation presumed――",
+            "name": "SP Commander",
+            "path_id": 2466754782793303433,
+            "block_id": 32,
+            "clip_length": 95,
+            "processed": "<story>She seemed quite pleased that Shakur was bright enough to \n<story>betray what our investigation presumed――"
+        },
+        {
+            "text": "...I lent the captain my ear for a little while, thinking ahead to the \nsummer training to come.",
+            "name": "",
+            "path_id": -1864813086023609407,
+            "block_id": 33,
+            "clip_length": 95,
+            "processed": "<story>...I lent the captain my ear for a little while, thinking ahead to the \n<story>summer training to come."
+        }
+    ],
+    "title": "2nd year summer training - Start!"
+}

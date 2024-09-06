@@ -1,0 +1,282 @@
+{
+    "type": "story",
+    "row_index": 6050,
+    "file_name": "story/data/50/1022/storytimeline_501022110",
+    "hash": "WJ6GO6SNCUVGIINZHITZMILYFSPEXOCZ",
+    "data": [
+        {
+            "text": "",
+            "name": "",
+            "path_id": 2123697882430233476,
+            "block_id": 0,
+            "clip_length": 45
+        },
+        {
+            "text": "Fine Motion was able to put up excellent results throughout \nher Twinkle Series career.",
+            "name": "",
+            "path_id": 7361070475508623649,
+            "block_id": 1,
+            "clip_length": 95,
+            "processed": "<story>Fine Motion was able to put up excellent results throughout \n<story>her Twinkle Series career."
+        },
+        {
+            "text": "We took on these incredibly important three years together――",
+            "name": "",
+            "path_id": -8867593040306286597,
+            "block_id": 2,
+            "clip_length": 93,
+            "processed": "<story>We took on these incredibly important three years together――"
+        },
+        {
+            "text": "――But!",
+            "name": "",
+            "path_id": -7084777930759159735,
+            "block_id": 3,
+            "clip_length": 50,
+            "processed": "<story>――But!"
+        },
+        {
+            "text": "Hey! When's she gonna get here?",
+            "name": "Air Shakur",
+            "path_id": 6733744629437735431,
+            "block_id": 4,
+            "clip_length": 61,
+            "choices": [
+                {
+                    "text": "I think she'll be here soon...",
+                    "hash": "24a3dc0b2ff9bb2193a84506a60a7f582cd633753330448a643a659400e68577"
+                }
+            ],
+            "processed": "<story>Hey! When's she gonna get here?"
+        },
+        {
+            "text": "You say that, but it's been like twenty minutes and she still \nhasn't shown up.",
+            "name": "Air Shakur",
+            "path_id": 2121982702987788201,
+            "block_id": 5,
+            "clip_length": 77,
+            "processed": "<story>You say that, but it's been like twenty minutes and she still \n<story>hasn't shown up."
+        },
+        {
+            "text": "Air Shakur had agreed to run together today, and it seemed \nFine Motion was looking forward to it...",
+            "name": "",
+            "path_id": -4881963551772427239,
+            "block_id": 6,
+            "clip_length": 112,
+            "processed": "<story>Air Shakur had agreed to run together today, and it seemed \n<story>Fine Motion was looking forward to it..."
+        },
+        {
+            "text": ".....Yeah, I'm done. \nSee y――",
+            "name": "Air Shakur",
+            "path_id": -866361644953349411,
+            "block_id": 7,
+            "clip_length": 59,
+            "processed": "<story>.....Yeah, I'm done. \n<story>See y――"
+        },
+        {
+            "text": "Heyyy, sorry I'm late～♪",
+            "name": "Fine Motion",
+            "path_id": 5360862424738899811,
+            "block_id": 8,
+            "clip_length": 52,
+            "processed": "<story>Heyyy, sorry I'm late～♪"
+        },
+        {
+            "text": "I'll never get tired of seeing the two of you wait for me.",
+            "name": "Fine Motion",
+            "path_id": 5735973489241239658,
+            "block_id": 9,
+            "clip_length": 82,
+            "processed": "<story>I'll never get tired of seeing the two of you wait for me."
+        },
+        {
+            "text": "...Hey, ain't there something you oughtta say before all the small \ntalk?",
+            "name": "Air Shakur",
+            "path_id": 8206195685141724271,
+            "block_id": 10,
+            "clip_length": 84,
+            "processed": "<story>...Hey, ain't there something you oughtta say before all the small \n<story>talk?"
+        },
+        {
+            "text": "Oh, that's right! \nHere, both of you―― from me to you♪",
+            "name": "Fine Motion",
+            "path_id": -3138259355874171953,
+            "block_id": 11,
+            "clip_length": 72,
+            "processed": "<story>Oh, that's right! \n<story>Here, both of you―― from me to you♪"
+        },
+        {
+            "text": "Huh? A four-leafed clover...?",
+            "name": "Air Shakur",
+            "path_id": 4228713746272267537,
+            "block_id": 12,
+            "clip_length": 64,
+            "processed": "<story>Huh? A four-leafed clover...?"
+        },
+        {
+            "text": "Yep! I noticed a big clover patch on the way here.",
+            "name": "Fine Motion",
+            "path_id": -2331821553221976753,
+            "block_id": 13,
+            "clip_length": 90,
+            "processed": "<story>Yep! I noticed a big clover patch on the way here."
+        },
+        {
+            "text": "When I saw it, I thought, 'what if'... \nAnd what do you know, I found some lucky clovers!",
+            "name": "Fine Motion",
+            "path_id": 5454688686294008074,
+            "block_id": 14,
+            "clip_length": 88,
+            "choices": [
+                {
+                    "text": "That's why you were late?",
+                    "hash": "655d8497fdd6fbefbef42b1f20438f1982b51390be822ceb084d535afec86c8f"
+                }
+            ],
+            "processed": "<story>When I saw it, I thought, 'what if'... \n<story>And what do you know, I found some lucky clovers!"
+        },
+        {
+            "text": "Oh, my, did I really take that long?",
+            "name": "Fine Motion",
+            "path_id": 7766672414303748932,
+            "block_id": 15,
+            "clip_length": 67,
+            "processed": "<story>Oh, my, did I really take that long?"
+        },
+        {
+            "text": "...Okay, maybe I <i>will</i> just leave.",
+            "name": "Air Shakur",
+            "path_id": 214264892119637895,
+            "block_id": 16,
+            "clip_length": 60,
+            "processed": "<story>...Okay, maybe I <i>will</i> just leave."
+        },
+        {
+            "text": "I'm <i>sorryyyy~</i> \nIt was just too good of an idea to pass up.",
+            "name": "Fine Motion",
+            "path_id": -7110210047266231009,
+            "block_id": 17,
+            "clip_length": 68,
+            "processed": "<story>I'm <i>sorryyyy~</i> \n<story>It was just too good of an idea to pass up."
+        },
+        {
+            "text": "I'd been looking forever for a present to give the two of you!",
+            "name": "Fine Motion",
+            "path_id": 7707722830886748563,
+            "block_id": 18,
+            "clip_length": 76,
+            "processed": "<story>I'd been looking forever for a present to give the two of you!"
+        },
+        {
+            "text": "What? Why?",
+            "name": "Air Shakur",
+            "path_id": 2073742569927620442,
+            "block_id": 19,
+            "clip_length": 54,
+            "processed": "<story>What? Why?"
+        },
+        {
+            "text": "Because the two of you have done so much for me, of course?",
+            "name": "Fine Motion",
+            "path_id": -7560864274293902586,
+            "block_id": 20,
+            "clip_length": 75,
+            "processed": "<story>Because the two of you have done so much for me, of course?"
+        },
+        {
+            "text": "I know you'd gladly accept any gift. \n...But that didn't feel quite right.",
+            "name": "Fine Motion",
+            "path_id": -822305194768824957,
+            "block_id": 21,
+            "clip_length": 95,
+            "processed": "<story>I know you'd gladly accept any gift. \n<story>...But that didn't feel quite right."
+        },
+        {
+            "text": "That's why I wanted to let my feelings known... \nI wanted to give you something important to me.",
+            "name": "Fine Motion",
+            "path_id": 5393771555356286364,
+            "block_id": 22,
+            "clip_length": 91,
+            "processed": "<story>That's why I wanted to let my feelings known... \n<story>I wanted to give you something important to me."
+        },
+        {
+            "text": "............",
+            "name": "Air Shakur",
+            "path_id": -3534041272868677636,
+            "block_id": 23,
+            "clip_length": 51,
+            "processed": "<story>............"
+        },
+        {
+            "text": "Sorry?",
+            "name": "Fine Motion",
+            "path_id": 1935539904027461233,
+            "block_id": 24,
+            "clip_length": 51,
+            "processed": "<story>Sorry?"
+        },
+        {
+            "text": ".......",
+            "name": "Air Shakur",
+            "path_id": 3992057710680666586,
+            "block_id": 25,
+            "clip_length": 58,
+            "processed": "<story>......."
+        },
+        {
+            "text": "I said I was sorry, is that not enough～?",
+            "name": "Fine Motion",
+            "path_id": 4171437694152339509,
+            "block_id": 26,
+            "clip_length": 58,
+            "processed": "<story>I said I was sorry, is that not enough～?"
+        },
+        {
+            "text": "Shut up and get on your mark already!",
+            "name": "Air Shakur",
+            "path_id": -1303557047992764647,
+            "block_id": 27,
+            "clip_length": 72,
+            "processed": "<story>Shut up and get on your mark already!"
+        },
+        {
+            "text": "!",
+            "name": "Fine Motion",
+            "path_id": 3213494571969983811,
+            "block_id": 28,
+            "clip_length": 46,
+            "processed": "<story>!"
+        },
+        {
+            "text": "Yeah, I'm coming!",
+            "name": "Fine Motion",
+            "path_id": -8277720105648008055,
+            "block_id": 29,
+            "clip_length": 56,
+            "processed": "<story>Yeah, I'm coming!"
+        },
+        {
+            "text": "Trainer!",
+            "name": "Fine Motion",
+            "path_id": -2695967866872418810,
+            "block_id": 30,
+            "clip_length": 52,
+            "choices": [
+                {
+                    "text": "Have a good time.",
+                    "hash": "69b8c5c3707dac4f861118196da88394161b250c1d33f378da3c9295d5cc6b6b"
+                }
+            ],
+            "processed": "<story>Trainer!"
+        },
+        {
+            "text": "I wiiill! \nHere I gooooo♪",
+            "name": "Fine Motion",
+            "path_id": 3547124461045487718,
+            "block_id": 31,
+            "clip_length": 61,
+            "processed": "<story>I wiiill! \n<story>Here I gooooo♪"
+        }
+    ],
+    "title": "Ending (Normal)"
+}

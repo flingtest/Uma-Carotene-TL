@@ -60,12 +60,12 @@
             "processed": "<story>... \n<story>Yes, if you would allow me..."
         },
         {
-            "text": "I would like to make an announcement. \nI, Fine Motion, just as I vowed――",
+            "text": "I would like to make an announcement. \nI, Fine Motion, as I vowed――",
             "name": "Fine Motion",
             "path_id": 8582336170858365132,
             "block_id": 7,
             "clip_length": 86,
-            "processed": "<story>I would like to make an announcement. \n<story>I, Fine Motion, just as I vowed――"
+            "processed": "<story>I would like to make an announcement. \n<story>I, Fine Motion, as I vowed――"
         },
         {
             "text": "...will return to my motherland in one year's time. \nThere is much to confirm prior to my departure――",
@@ -84,373 +84,418 @@
             "processed": "<story>With the coming of the new year, there was a lot of work for \n<story>Fine Motion to do."
         },
         {
-            "text": "",
+            "text": "She had yet another meeting with the Irish officials today, \nso I was sitting around waiting for it to end...",
             "name": "",
             "path_id": -8795487329701003838,
             "block_id": 10,
             "clip_length": 86,
             "choices": [
                 {
-                    "text": "",
+                    "text": "(This is taking forever...)",
                     "hash": "5254e8b0854ad4ab37894f4837be413486aa58e323cd8d356081066198828131"
                 },
                 {
-                    "text": "",
+                    "text": "(This is taking forever...)",
                     "hash": "fccddd14940fc22286f308d2b5e72069af09eb9434b1f9223de8ac6fb199af06"
                 }
-            ]
+            ],
+            "processed": "<story>She had yet another meeting with the Irish officials today, \n<story>so I was sitting around waiting for it to end..."
         },
         {
-            "text": "",
+            "text": "――Sorry for the wait, Trainer!",
             "name": "Fine Motion",
             "path_id": -8303382661147764955,
             "block_id": 11,
-            "clip_length": 68
+            "clip_length": 68,
+            "processed": "<story>――Sorry for the wait, Trainer!"
         },
         {
-            "text": "",
+            "text": "A lot of the people there were pretty casual about things, so \nwe just kept tacking things onto the agenda~",
             "name": "Fine Motion",
             "path_id": -8097612420882759372,
             "block_id": 12,
             "clip_length": 89,
             "choices": [
                 {
-                    "text": "",
+                    "text": "Well, let's get to training then.",
                     "hash": "f0ecaca98be533ff483c90a04beb566eed4d4d0fed739ceb9f5e79d276bdec14"
                 },
                 {
-                    "text": "",
+                    "text": "Well, let's get to training then.",
                     "hash": "9bab41e36a9d38e4e2e5519a8fda113321213685ac2bb3dfd16da7e1601abdc4"
                 }
-            ]
+            ],
+            "processed": "<story>A lot of the people there were pretty casual about things, so \n<story>we just kept tacking things onto the agenda~"
         },
         {
-            "text": "",
+            "text": "......",
             "name": "Fine Motion",
             "path_id": -8074230602933371545,
             "block_id": 13,
-            "clip_length": 48
+            "clip_length": 48,
+            "processed": "<story>......"
         },
         {
-            "text": "",
+            "text": "...Mmm, can we put it on hold for a bit? \nI need to get a drink.",
             "name": "Fine Motion",
             "path_id": -3545499331077951247,
             "block_id": 14,
             "clip_length": 82,
             "choices": [
                 {
-                    "text": "",
+                    "text": "Well, of course, but...",
                     "hash": "33e60bb8621132cbc7fd564b3d54186778367936415d3f1019ee2815a2520e31"
                 }
-            ]
+            ],
+            "processed": "<story>...Mmm, can we put it on hold for a bit? \n<story>I need to get a drink."
         },
         {
-            "text": "",
+            "text": "Before, she'd jump at the chance to go running again. \nBut lately it felt like she was always looking over her shoulder.",
             "name": "",
             "path_id": 1697675564241453023,
             "block_id": 15,
-            "clip_length": 108
+            "clip_length": 108,
+            "processed": "<story>Before, she'd jump at the chance to go running again. \n<story>But lately it felt like she was always looking over her shoulder."
         },
         {
-            "text": "",
+            "text": "Trainer. \n...Could you go to Her Highness?",
             "name": "SP Commander",
             "path_id": -1603930313263884230,
             "block_id": 16,
             "clip_length": 75,
             "choices": [
                 {
-                    "text": "",
+                    "text": "Huh?",
                     "hash": "698bceb8b2cde22b3e18c7997b79111a01188443db7d58daa8772fe9dfeca06c"
                 }
-            ]
+            ],
+            "processed": "<story>Trainer. \n<story>...Could you go to Her Highness?"
         },
         {
-            "text": "",
+            "text": "None have the right to meddle in the affairs of Her Highness's \nheart but herself. But you―― You may have the right to ask.",
             "name": "SP Commander",
             "path_id": -3737462186863605289,
             "block_id": 17,
-            "clip_length": 112
+            "clip_length": 112,
+            "processed": "<story>None have the right to meddle in the affairs of Her Highness's \n<story>heart but herself. But you―― You may have the right to ask."
         },
         {
-            "text": "",
+            "text": "――Even after all that, you're still the same. \nYour running... and your stupid, unchanging face.",
             "name": "Air Shakur",
             "path_id": 1535331236806354806,
             "block_id": 18,
-            "clip_length": 85
+            "clip_length": 85,
+            "processed": "<story>――Even after all that, you're still the same. \n<story>Your running... and your stupid, unchanging face."
         },
         {
-            "text": "",
+            "text": "When I went to get her, she was already talking to Air Shakur. \nI didn't want to interrupt, so I started to turn around――",
             "name": "",
             "path_id": 5173551849890176844,
             "block_id": 19,
-            "clip_length": 120
+            "clip_length": 120,
+            "processed": "<story>When I went to get her, she was already talking to Air Shakur. \n<story>I didn't want to interrupt, so I started to turn around――"
         },
         {
-            "text": "",
+            "text": "Can't you just act the way you always do? \nDoing whatever you want like the big brat you are.",
             "name": "Air Shakur",
             "path_id": -1827772272538601683,
             "block_id": 20,
-            "clip_length": 84
+            "clip_length": 84,
+            "processed": "<story>Can't you just act the way you always do? \n<story>Doing whatever you want like the big brat you are."
         },
         {
-            "text": "",
+            "text": "\"I want to run more.\" ―― \nIsn't that all the rationale you need?",
             "name": "Air Shakur",
             "path_id": -8224530179574027932,
             "block_id": 21,
-            "clip_length": 80
+            "clip_length": 80,
+            "processed": "<story>\"I want to run more.\" ―― \n<story>Isn't that all the rationale you need?"
         },
         {
-            "text": "",
+            "text": "...I don't think that way at all. \nI've already been allowed to run more than my fair share.",
             "name": "Fine Motion",
             "path_id": -8331019331007825678,
             "block_id": 22,
-            "clip_length": 90
+            "clip_length": 90,
+            "processed": "<story>...I don't think that way at all. \n<story>I've already been allowed to run more than my fair share."
         },
         {
-            "text": "",
+            "text": "The hell's going on with you? You're not dumb enough to \nhalf-ass a lie like that.",
             "name": "Air Shakur",
             "path_id": -7268814473088954979,
             "block_id": 23,
-            "clip_length": 82
+            "clip_length": 82,
+            "processed": "<story>The hell's going on with you? You're not dumb enough to \n<story>half-ass a lie like that."
         },
         {
-            "text": "",
+            "text": "You already know, don't you? \nThat there's one thing I put above all else...",
             "name": "Fine Motion",
             "path_id": 7969741467887660104,
             "block_id": 24,
-            "clip_length": 91
+            "clip_length": 91,
+            "processed": "<story>You already know, don't you? \n<story>That there's one thing I put above all else..."
         },
         {
-            "text": "",
+            "text": "I want to fulfill my duty, from the bottom of my heart. \nI'm not doing something as romantic as throwing myself on the \ncross.",
             "name": "Fine Motion",
             "path_id": 2022631951404525675,
             "block_id": 25,
-            "clip_length": 111
+            "clip_length": 111,
+            "processed": "<story>I want to fulfill my duty, from the bottom of my heart. \n<story>I'm not doing something as romantic as throwing myself on the \n<story>cross."
         },
         {
-            "text": "",
+            "text": "...There's that royal upbringing. \nStill in the headspace to get philosophical, huh.",
             "name": "Air Shakur",
             "path_id": 5891505057593303584,
             "block_id": 26,
-            "clip_length": 78
+            "clip_length": 78,
+            "processed": "<story>...There's that royal upbringing. \n<story>Still in the headspace to get philosophical, huh."
         },
         {
-            "text": "",
+            "text": "You might've tried to cope with it all in your head, but \nI know you haven't figured a damn thing out. \nStill in denial about it, ain't you?",
             "name": "Air Shakur",
             "path_id": 1584270392663077571,
             "block_id": 27,
-            "clip_length": 106
+            "clip_length": 106,
+            "processed": "<story>You might've tried to cope with it all in your head, but \n<story>I know you haven't figured a damn thing out. \n<story>Still in denial about it, ain't you?"
         },
         {
-            "text": "",
+            "text": "......",
             "name": "Fine Motion",
             "path_id": -8208358778890643466,
             "block_id": 28,
-            "clip_length": 50
+            "clip_length": 50,
+            "processed": "<story>......"
         },
         {
-            "text": "",
+            "text": "It hit you at the Liz Cup. Just how fun racing was.",
             "name": "Air Shakur",
             "path_id": -4940706504477893461,
             "block_id": 29,
-            "clip_length": 78
+            "clip_length": 78,
+            "processed": "<story>It hit you at the Liz Cup. Just how fun racing was."
         },
         {
-            "text": "",
+            "text": "I know what you were thinking. \n<i>――Screw my duty.</i> \n<i>I want to run like this, forever... </i>Right?",
             "name": "Air Shakur",
             "path_id": 4605522912874550995,
             "block_id": 30,
-            "clip_length": 102
+            "clip_length": 102,
+            "processed": "<story>I know what you were thinking. \n<story><i>――Screw my duty.</i> \n<story><i>I want to run like this, forever... </i>Right?"
         },
         {
-            "text": "",
+            "text": "...Shakur... please stop?",
             "name": "Fine Motion",
             "path_id": -4032678868188677924,
             "block_id": 31,
-            "clip_length": 60
+            "clip_length": 60,
+            "processed": "<story>...Shakur... please stop?"
         },
         {
-            "text": "",
+            "text": "You had to rationalize that thought out of your head. \nSo you made yourself believe you didn't want to run anymore.",
             "name": "Air Shakur",
             "path_id": -4432035939516654151,
             "block_id": 32,
-            "clip_length": 105
+            "clip_length": 105,
+            "processed": "<story>You had to rationalize that thought out of your head. \n<story>So you made yourself believe you didn't want to run anymore."
         },
         {
-            "text": "",
+            "text": "You won't focus, you won't keep going. \n...Even though you damn well can!",
             "name": "Air Shakur",
             "path_id": 5585816649960566641,
             "block_id": 33,
-            "clip_length": 85
+            "clip_length": 85,
+            "processed": "<story>You won't focus, you won't keep going. \n<story>...Even though you damn well can!"
         },
         {
-            "text": "",
+            "text": "Shakur...",
             "name": "Fine Motion",
             "path_id": -4973323242274276218,
             "block_id": 34,
-            "clip_length": 55
+            "clip_length": 55,
+            "processed": "<story>Shakur..."
         },
         {
-            "text": "",
+            "text": "You tell your trainer about this? \nBet you haven't.",
             "name": "Air Shakur",
             "path_id": 7976695108897876530,
             "block_id": 35,
             "clip_length": 86,
             "choices": [
                 {
-                    "text": "",
+                    "text": "(......!)",
                     "hash": "198f175471c52d2483f9c8ba8e16674606413d2cc8913c423717012060a3d38f"
                 }
-            ]
+            ],
+            "processed": "<story>You tell your trainer about this? \n<story>Bet you haven't."
         },
         {
-            "text": "",
+            "text": "That poor S.O.B.'s been ready for this ever since they first roped \nme into running with you.",
             "name": "Air Shakur",
             "path_id": 3462524964804410451,
             "block_id": 36,
-            "clip_length": 89
+            "clip_length": 89,
+            "processed": "<story>That poor S.O.B.'s been ready for this ever since they first roped \n<story>me into running with you."
         },
         {
-            "text": "",
+            "text": "Even if you really do have to quit. \nIf there's no point pushing you forward, what's your trainer even \nthere for?",
             "name": "Air Shakur",
             "path_id": -5713491188518542158,
             "block_id": 37,
-            "clip_length": 106
+            "clip_length": 106,
+            "processed": "<story>Even if you really do have to quit. \n<story>If there's no point pushing you forward, what's your trainer even \n<story>there for?"
         },
         {
-            "text": "",
+            "text": "... \nYou may be right.",
             "name": "Fine Motion",
             "path_id": -686315411871786513,
             "block_id": 38,
-            "clip_length": 71
+            "clip_length": 71,
+            "processed": "<story>... \n<story>You may be right."
         },
         {
-            "text": "",
+            "text": "It might be the right thing to let them know. \nThat I won't be able to accept their help for much longer.",
             "name": "Fine Motion",
             "path_id": -1006136945771914588,
             "block_id": 39,
-            "clip_length": 90
+            "clip_length": 90,
+            "processed": "<story>It might be the right thing to let them know. \n<story>That I won't be able to accept their help for much longer."
         },
         {
-            "text": "",
+            "text": "Then why don't――",
             "name": "Air Shakur",
             "path_id": -6554763378210496286,
             "block_id": 40,
-            "clip_length": 52
+            "clip_length": 52,
+            "processed": "<story>Then why don't――"
         },
         {
-            "text": "",
+            "text": "But listen, Shakur. \nI can't put any more weight on their shoulders.",
             "name": "Fine Motion",
             "path_id": 918224040132963887,
             "block_id": 41,
-            "clip_length": 78
+            "clip_length": 78,
+            "processed": "<story>But listen, Shakur. \n<story>I can't put any more weight on their shoulders."
         },
         {
-            "text": "",
+            "text": "My Trainer's already taken on so many responsibilities for me.",
             "name": "Fine Motion",
             "path_id": 6385169651603548839,
             "block_id": 42,
-            "clip_length": 82
+            "clip_length": 82,
+            "processed": "<story>My Trainer's already taken on so many responsibilities for me."
         },
         {
-            "text": "",
+            "text": "I don't want to take advantage of their determination. \nAnd...",
             "name": "Fine Motion",
             "path_id": 1538240506264228505,
             "block_id": 43,
-            "clip_length": 77
+            "clip_length": 77,
+            "processed": "<story>I don't want to take advantage of their determination. \n<story>And..."
         },
         {
-            "text": "",
+            "text": "This is something I have to shoulder alone. \n...For my future.",
             "name": "Fine Motion",
             "path_id": 6495198518335989142,
             "block_id": 44,
-            "clip_length": 71
+            "clip_length": 71,
+            "processed": "<story>This is something I have to shoulder alone. \n<story>...For my future."
         },
         {
-            "text": "",
+            "text": "Tch... Just how noble do you think you are?!",
             "name": "Air Shakur",
             "path_id": -602018643354316436,
             "block_id": 45,
-            "clip_length": 63
+            "clip_length": 63,
+            "processed": "<story>Tch... Just how noble do you think you are?!"
         },
         {
-            "text": "",
+            "text": "Shakur, wait...! \nThank you for thinking about me!",
             "name": "Fine Motion",
             "path_id": 7768062111864489113,
             "block_id": 46,
-            "clip_length": 80
+            "clip_length": 80,
+            "processed": "<story>Shakur, wait...! \n<story>Thank you for thinking about me!"
         },
         {
-            "text": "",
+            "text": "...Don't talk as if I'm like you. \nI'm not thinking of anyone but myself.",
             "name": "Air Shakur",
             "path_id": 4307344952766507733,
             "block_id": 47,
-            "clip_length": 82
+            "clip_length": 82,
+            "processed": "<story>...Don't talk as if I'm like you. \n<story>I'm not thinking of anyone but myself."
         },
         {
-            "text": "",
+            "text": "I just... It's just a what if. \nIf you managed to overcome the data, <i>something</i> might \nchange――",
             "name": "Air Shakur",
             "path_id": -5271963534293718087,
             "block_id": 48,
-            "clip_length": 81
+            "clip_length": 81,
+            "processed": "<story>I just... It's just a what if. \n<story>If you managed to overcome the data, <i>something</i> might \n<story>change――"
         },
         {
-            "text": "",
+            "text": "...That's all.",
             "name": "Air Shakur",
             "path_id": -467119695087601731,
             "block_id": 49,
-            "clip_length": 55
+            "clip_length": 55,
+            "processed": "<story>...That's all."
         },
         {
-            "text": "",
+            "text": "...I don't know anything about data. \nBut I think we're not so different.",
             "name": "Fine Motion",
             "path_id": 6563018273366342309,
             "block_id": 50,
-            "clip_length": 94
+            "clip_length": 94,
+            "processed": "<story>...I don't know anything about data. \n<story>But I think we're not so different."
         },
         {
-            "text": "",
+            "text": "I knew from the moment we met. \nThat there would come a time that you would need me.",
             "name": "Fine Motion",
             "path_id": 2603212684567418261,
             "block_id": 51,
-            "clip_length": 95
+            "clip_length": 95,
+            "processed": "<story>I knew from the moment we met. \n<story>That there would come a time that you would need me."
         },
         {
-            "text": "",
+            "text": "――That I would need to be at your side.",
             "name": "Fine Motion",
             "path_id": 4321262760848656495,
             "block_id": 52,
-            "clip_length": 69
+            "clip_length": 69,
+            "processed": "<story>――That I would need to be at your side."
         },
         {
-            "text": "",
+            "text": "......! \nYou're so goddamn arrogant...!",
             "name": "Air Shakur",
             "path_id": 4464676070559330855,
             "block_id": 53,
-            "clip_length": 67
+            "clip_length": 67,
+            "processed": "<story>......! \n<story>You're so goddamn arrogant...!"
         },
         {
-            "text": "",
+            "text": "Hehe, I guess I am. \nI'm super arrogant and super stubborn.",
             "name": "Fine Motion",
             "path_id": 1930826829863774227,
             "block_id": 54,
-            "clip_length": 80
+            "clip_length": 80,
+            "processed": "<story>Hehe, I guess I am. \n<story>I'm super arrogant and super stubborn."
         },
         {
-            "text": "...Then. Just hypothetically. \nIf I begged you... would you keep on running?",
+            "text": "...But if that's the case, then... Just. \nWhat if. \nIf I asked... would you keep running?",
             "name": "Air Shakur",
             "path_id": -5651493818947629996,
             "block_id": 55,
             "clip_length": 85,
-            "processed": "<story>...Then. Just hypothetically. \n<story>If I begged you... would you keep on running?"
+            "processed": "<story>...But if that's the case, then... Just. \n<story>What if. \n<story>If I asked... would you keep running?"
         },
         {
-            "text": "What if I told you I needed your running? \nWould you become my god?",
+            "text": "If I needed you to keep running... \nWould you be a god for me?",
             "name": "Air Shakur",
             "path_id": 4435497185016428771,
             "block_id": 56,
             "clip_length": 89,
-            "processed": "<story>What if I told you I needed your running? \n<story>Would you become my god?"
+            "processed": "<story>If I needed you to keep running... \n<story>Would you be a god for me?"
         },
         {
             "text": "......",
@@ -485,12 +530,13 @@
             "processed": "<story>......I have to love it."
         },
         {
-            "text": "",
+            "text": "For now, she'll stand alone. \nBut when the time comes and she needs help―― \nThat's when I need to fulfill our first promise.",
             "name": "",
             "path_id": -5435535210327458983,
             "block_id": 61,
-            "clip_length": 116
+            "clip_length": 116,
+            "processed": "<story>For now, she'll stand alone. \n<story>But when the time comes and she needs help―― \n<story>That's when I need to fulfill our first promise."
         }
     ],
-    "title": ""
+    "title": "Destiny"
 }
